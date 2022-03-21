@@ -1,19 +1,4 @@
 public class BinarySearch {
-//    public static int search(int[] nums, int target) {
-//
-//        int centerIndex = nums.length/2;
-//        int center = nums[centerIndex];
-//        if (center == target) {
-//            return centerIndex;
-//        } else if (target < center) {
-//            int[] leftNums = Arrays.copyOfRange(nums, 0, centerIndex);
-//            return search(leftNums, target);
-//        } else {
-//            int[] rightNums = Arrays.copyOfRange(nums, centerIndex+1, nums.length);
-//            return search(rightNums, target);
-//        }
-//
-//    }
 
     public static int search(int[] nums, int target) {
         int low = 0;
