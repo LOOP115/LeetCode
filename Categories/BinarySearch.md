@@ -1,4 +1,4 @@
-# LeetCode History
+# Binary Search
 ####
 | Number |                         Problem                         | Difficulty | Beat (Time) |  Note  |
 |:------:|:-------------------------------------------------------:|:----------:|:-----------:|:------:|
