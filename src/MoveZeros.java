@@ -49,4 +49,5 @@ public class MoveZeros {
         moveZeroes1(nums1);
         System.out.println(Arrays.toString(nums1));
     }
+
 }

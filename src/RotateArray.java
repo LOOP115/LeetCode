@@ -90,4 +90,5 @@ public class RotateArray {
         System.out.println(gcd(6, 2));
         System.out.println(Arrays.toString(nums1));
     }
+
 }
