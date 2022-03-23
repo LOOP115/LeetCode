@@ -1,4 +1,5 @@
 //public class FirstBadVersion {
+//
 //    public int firstBadVersion(int n) {
 //        int low = 1;
 //        int high = n;
@@ -14,4 +15,5 @@
 //        }
 //        return low;
 //    }
+//
 //}

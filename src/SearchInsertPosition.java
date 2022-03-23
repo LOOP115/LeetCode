@@ -1,4 +1,5 @@
 public class SearchInsertPosition {
+
     public static int searchInsert(int[] nums, int target) {
         int low = 0;
         int high = nums.length - 1;
@@ -18,6 +19,7 @@ public class SearchInsertPosition {
         // Insert position
         return low;
     }
+
 
     public static void main(String[] args) {
         int[] nums = {1,3,5,6};

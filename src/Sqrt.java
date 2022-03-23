@@ -1,6 +1,7 @@
 import java.lang.Math;
 
 public class Sqrt {
+
     public static int mySqrt(int x) {
         int low = 1;
         int high = (x - low) / 2 + low;
@@ -58,10 +59,12 @@ public class Sqrt {
         return (int) x0;
     }
 
+
     public static void main(String[] args) {
         System.out.println(mySqrt(2147395600));
         System.out.println(mySqrtCalculator(2147395600));
         System.out.println(mySqrtBinary(2147395600));
         System.out.println(mySqrtNewton(2147395600));
     }
+
 }

@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 public class SquaresSortedArray {
+
     public static int[] sortedSquares1(int[] nums) {
         for (int i = 0; i<nums.length; i++) {
             nums[i] = nums[i] * nums[i];
@@ -74,6 +75,6 @@ public class SquaresSortedArray {
         System.out.println(Arrays.toString(sortedSquares1(nums1)));
         System.out.println(Arrays.toString(sortedSquares2(nums2)));
         System.out.println(Arrays.toString(sortedSquares3(nums3)));
-
     }
+
 }
