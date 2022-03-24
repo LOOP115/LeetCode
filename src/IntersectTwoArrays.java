@@ -26,7 +26,7 @@ public class IntersectTwoArrays {
         return ans;
     }
 
-    // Sort and double pointers 93.84%
+    // Sort + 双指针 93.84%
     public static int[] intersection2(int[] nums1, int[] nums2) {
         Arrays.sort(nums1);
         Arrays.sort(nums2);
@@ -48,6 +48,10 @@ public class IntersectTwoArrays {
                 p1++;
                 p2++;
             }
+        }
+
+        if (count == tempAns.length) {
+            return tempAns;
         }
 
         int[] ans = new int[count];
