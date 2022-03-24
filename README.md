@@ -3,7 +3,7 @@
 ## Categories
 * [Arrays](#arrays)
 * [Binary Search](#binary-search)
-* [Hash Map](#hashmap)
+* [Hash Map](#hash-map)
 * [Set](#set)
 
 ###
