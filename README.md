@@ -14,6 +14,7 @@
 |  189   |           [Rotate Array](src/RotateArray.java)           |   Medium   |    100%     | Math, Reverse / 3 ways |
 |  278   |      [First Bad Version](src/FirstBadVersion.java)       |    Easy    |   99.95%    |                        |
 |  283   |             [Move Zeros](src/MoveZeros.java)             |    Easy    |   46.71%    |          双指针           |
+|  344   |         [Reverse String](src/ReverseString.java)         |    Easy    |    100%     |          双指针           |
 |  704   |          [Binary Search](src/BinarySearch.java)          |    Easy    |    100%     |                        |
 |  977   | [Squares of a Sorted Array](src/SquaresSortedArray.java) |    Easy    |    100%     |      双指针 / 3 ways      |
 ##### Total: 8
@@ -25,6 +26,7 @@
 |  167   | [Two Sum II - Input Array is Sorted](src/TwoSumII.java)  |   Medium   |    100%     |   二分查找，双指针   |
 |  189   |           [Rotate Array](src/RotateArray.java)           |   Medium   |    100%     |    3 ways    |
 |  283   |             [Move Zeros](src/MoveZeros.java)             |    Easy    |   46.71%    |     双指针      |
+|  344   |         [Reverse String](src/ReverseString.java)         |    Easy    |    100%     |     双指针      |
 |  977   | [Squares of a Sorted Array](src/SquaresSortedArray.java) |    Easy    |    100%     | 双指针 / 3 ways |
 
 ###
