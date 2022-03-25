@@ -4,9 +4,10 @@
 * [Arrays](#arrays)
 * [Binary Search](#binary-search)
 * [Hash Map](#hash-map)
+* [Linked List](#linked-list)
 * [Set](#set)
 
-###
+
 ## Summary
 | Number |                              Problem                              | Difficulty | Beat (Time) |          Note          |
 |:------:|:-----------------------------------------------------------------:|:----------:|:-----------:|:----------------------:|
@@ -21,10 +22,11 @@
 |  350   |  [Intersection of Two Arrays II](src/IntersectTwoArraysII.java)   |    Easy    |   89.79%    |   HashMap, Sort+双指针    |
 |  557   | [Reverse Words in a String III](src/ReverseWordsInStringIII.java) |    Easy    |    100%     |          双指针           |
 |  704   |              [Binary Search](src/BinarySearch.java)               |    Easy    |    100%     |                        |
+|  876   |       [Middle of the Linked List](src/MiddleLinkList.java)        |    Easy    |    100%     |      双指针 / 3 ways      |
 |  977   |     [Squares of a Sorted Array](src/SquaresSortedArray.java)      |    Easy    |    100%     |      双指针 / 3 ways      |
 ##### Total: 12
 
-###
+
 ## Arrays
 | Number |                              Problem                              | Difficulty | Beat (Time) |         Note         |
 |:------:|:-----------------------------------------------------------------:|:----------:|:-----------:|:--------------------:|
@@ -37,7 +39,7 @@
 |  557   | [Reverse Words in a String III](src/ReverseWordsInStringIII.java) |    Easy    |    100%     |         双指针          |
 |  977   |     [Squares of a Sorted Array](src/SquaresSortedArray.java)      |    Easy    |    100%     |     双指针 / 3 ways     |
 
-###
+
 ## Binary Search
 | Number |                         Problem                         | Difficulty | Beat (Time) |        Note         |
 |:------:|:-------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
@@ -46,13 +48,19 @@
 |  278   |      [First Bad Version](src/FirstBadVersion.java)      |    Easy    |   99.95%    |                     |
 |  704   |         [Binary Search](src/BinarySearch.java)          |    Easy    |    100%     |                     |
 
-###
+
 ## Hash Map
 | Number |                              Problem                              | Difficulty | Beat (Time) |         Note         |
 |:------:|:-----------------------------------------------------------------:|:----------:|:-----------:|:--------------------:|
 |  350   |  [Intersection of Two Arrays II](src/IntersectTwoArraysII.java)   |    Easy    |   89.79%    |  HashMap, Sort+双指针   |
 
-###
+
+## Linked List
+| Number |                       Problem                        | Difficulty | Beat (Time) |     Note     |
+|:------:|:----------------------------------------------------:|:----------:|:-----------:|:------------:|
+|  876   | [Middle of the Linked List](src/MiddleLinkList.java) |    Easy    |    100%     | 双指针 / 3 ways |
+
+
 ## Set
 | Number |                              Problem                              | Difficulty | Beat (Time) |         Note         |
 |:------:|:-----------------------------------------------------------------:|:----------:|:-----------:|:--------------------:|
