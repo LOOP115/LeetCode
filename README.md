@@ -22,7 +22,7 @@
 |  278   |                    [First Bad Version](src/FirstBadVersion.java)                     |    Easy    |   99.95%    |           BS           |
 |  283   |                           [Move Zeros](src/MoveZeros.java)                           |    Easy    |    100%     |          双指针？          |
 |  344   |                       [Reverse String](src/ReverseString.java)                       |    Easy    |    100%     |          双指针           |
-|  349   |              [Intersection of Two Arrays](src/IntersectTwoArrays.java)               |    Easy    |   93.84%    |  Set，Sort+双指针，Stream？  |
+|  349   |              [Intersection of Two Arrays](src/IntersectTwoArrays.java)               |    Easy    |   93.84%    |      Set，Sort+双指针      |
 |  350   |            [Intersection of Two Arrays II](src/IntersectTwoArraysII.java)            |    Easy    |   89.79%    |   HashMap, Sort+双指针    |
 |  367   |                 [Valid Perfect Square](src/ValidPerfectSquare.java)                  |    Easy    |    100%     |         类似 69          |
 |  374   |                  [Guess Number Higher or Lower](src/GuessNum.java)                   |    Easy    |    100%     |           BS           |
