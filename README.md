@@ -43,7 +43,7 @@
 | Number |                              Problem                              | Difficulty | Beat (Time) |        Note         |
 |:------:|:-----------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
 |  167   |      [Two Sum II - Input Array is Sorted](src/TwoSumII.java)      |   Medium   |    100%     |       BS, 双指针       |
-|  189   |               [Rotate Array](src/RotateArray.java)                |   Medium   |    100%     |       3 ways        |
+|  189   |               [Rotate Array](src/RotateArray.java)                |   Medium   |    100%     |    Math, Reverse    |
 |  283   |                 [Move Zeros](src/MoveZeros.java)                  |    Easy    |    100%     |        双指针?         |
 |  344   |             [Reverse String](src/ReverseString.java)              |    Easy    |    100%     |         双指针         |
 |  349   |     [Intersection of Two Arrays](src/IntersectTwoArrays.java)     |    Easy    |   93.84%    |   Set, Sort + 双指针   |
