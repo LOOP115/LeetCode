@@ -42,7 +42,7 @@ public class TwoSumII {
         return new int[]{-1, -1};
     }
 
-    // Double pointers
+    // Two pointers
     public static int[] twoSum2(int[] numbers, int target) {
         int n = numbers.length;
         int head = 0, tail = n - 1;
