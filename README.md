@@ -27,10 +27,11 @@
 |  374   |                  [Guess Number Higher or Lower](src/GuessNum.java)                  |    Easy    |    100%     |                        |
 |  441   |                      [Arranging Coins](src/ArrangeCoins.java)                       |    Easy    |   97.93%    |          Math          |
 |  557   |          [Reverse Words in a String III](src/ReverseWordsInStringIII.java)          |    Easy    |    100%     |          双指针           |
+|  567   |                [Permutation in String](src/PermutationInString.java)                |   Medium   |    100%     |        滑动窗口，双指针        |
 |  704   |                       [Binary Search](src/BinarySearch.java)                        |    Easy    |    100%     |                        |
 |  876   |                [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |      双指针 / 3 ways      |
 |  977   |              [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |      双指针 / 3 ways      |
-##### Total: 18
+##### Total: 19
 
 
 ## Arrays
@@ -81,4 +82,5 @@
 | Number |                                       Problem                                       | Difficulty | Beat (Time) |    Note     |
 |:------:|:-----------------------------------------------------------------------------------:|:----------:|:-----------:|:-----------:|
 |   3    | [Longest Substring Without Repeating Characters](src/LengthOfLongestSubstring.java) |   Medium   |    100%     | Set? + 滑动窗口 |
+|  567   |                [Permutation in String](src/PermutationInString.java)                |   Medium   |    100%     |  滑动窗口，双指针   |
 
