@@ -42,6 +42,26 @@ public class MoveZeros {
         nums[b] = temp;
     }
 
+    // 评论区 100% 方法
+    public static void moveZeroes2(int[] nums) {
+        if (nums == null || nums.length <= 1) {
+            return;
+        }
+        // index 记录更新非零数的个数
+        int index = 0;
+        for (int i = 0; i < nums.length; i++) {
+            // 将非零数移到数组前端
+            if (nums[i] != 0) {
+                nums[index] = nums[i];
+                index++;
+            }
+        }
+        // 从 index 位置起全为零
+        for (int i = index; i < nums.length; i++) {
+            nums[i] = 0;
+        }
+    }
+
 
     public static void main(String[] args) {
         int[] nums1 = {0,0,1};

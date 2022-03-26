@@ -4,7 +4,7 @@
 //        int low = 1;
 //        int high = n;
 //        while (low <= high) {
-//            int mid = (high - low) / 2 + low;
+//            int mid = (high + low) >>> 1;
 //            if (isBadVersion(mid)) {
 //                // Search earlier version
 //                high = mid - 1;

@@ -1,6 +1,6 @@
 public class ArrangeCoins {
 
-    // 等差数列  O(logn) 97.93%
+    // 二分查找 等差数列  O(logn) 97.93%
     public static int arrangeCoins(int n) {
         int low = 0, high = n >>> 1;
         while (low <= high) {
@@ -22,7 +22,7 @@ public class ArrangeCoins {
         }
     }
 
-    // 官方等差数列
+    // 官方二分查找 等差数列
     public static int arrangeCoins1(int n) {
         int left = 1, right = n;
         while (left < right) {
