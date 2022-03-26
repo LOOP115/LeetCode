@@ -1,12 +1,12 @@
 # LeetCode Exercise Records
 ## Categories
-> Algorithms
+> __Algorithms__
 * [Binary Search](#binary-search)
 * [Sliding Window](#sliding-window)
 * [Two Pointers](#two-pointers)
 
 
-> Data Structures
+> __Data Structures__
 * [Arrays](#arrays)
 * [Hash Map](#hash-map)
 * [Linked List](#linked-list)
