@@ -20,7 +20,7 @@ public class MoveZeros {
         }
     }
 
-    // Double pointers
+    // 官方双指针，实际运行速度没有很快
     public static void moveZeroes1(int[] nums) {
         int n = nums.length;
         // 左指针左侧均为非零数，右指针到左指针均为零

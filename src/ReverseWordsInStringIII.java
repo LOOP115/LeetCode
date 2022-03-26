@@ -10,7 +10,7 @@ public class ReverseWordsInStringIII {
                 if (i + 1 == n) {
                     right = i;
                 } else {
-                    right = i -1 ;
+                    right = i - 1;
                 }
                 while (left <= right) {
                     char temp = str[right];
