@@ -76,9 +76,9 @@
 
 
 ## Set
-| Number |                              Problem                              | Difficulty | Beat (Time) |         Note         |
-|:------:|:-----------------------------------------------------------------:|:----------:|:-----------:|:--------------------:|
-|  349   |     [Intersection of Two Arrays](src/IntersectTwoArrays.java)     |    Easy    |   93.84%    | Set，Sort+双指针，Stream？ |
+| Number |                          Problem                          | Difficulty | Beat (Time) |     Note     |
+|:------:|:---------------------------------------------------------:|:----------:|:-----------:|:------------:|
+|  349   | [Intersection of Two Arrays](src/IntersectTwoArrays.java) |    Easy    |   93.84%    | Set，Sort+双指针 |
 
 
 ## Sliding Window
