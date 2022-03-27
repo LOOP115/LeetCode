@@ -45,7 +45,7 @@ public class MaxAreaOfIsland {
         }
     }
 
-    // Solution 1: DFS  73.43%
+    // Solution 1: DFS  100%
     // 不需要用额外的二维数组来存储已访问过的节点，可以直接将已访问过的节点覆盖为 0
     public static int maxAreaOfIsland1(int[][] grid) {
         int m = grid.length;
