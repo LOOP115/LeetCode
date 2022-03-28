@@ -22,6 +22,7 @@
 |   19   |            [Remove Nth Node From End of List](src/RemoveNthFromEnd.java)             |   Medium   |    100%     |     Stack, 双指针      |
 |   35   |               [Search Insert Position](src/SearchInsertPosition.java)                |    Easy    |    100%     |         BS          |
 |   69   |                               [Sqrt(x)](src/Sqrt.java)                               |    Easy    |    100%     |   Math, 牛顿迭代, BS    |
+|  116   |     [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java)     |   Medium   |    100%     |        层序遍历         |
 |  167   |               [Two Sum II - Input Array is Sorted](src/TwoSumII.java)                |   Medium   |    100%     |       BS, 双指针       |
 |  189   |                         [Rotate Array](src/RotateArray.java)                         |   Medium   |    100%     |    Math, Reverse    |
 |  278   |                    [First Bad Version](src/FirstBadVersion.java)                     |    Easy    |   99.95%    |         BS          |
@@ -41,7 +42,7 @@
 |  744   | [Find Smallest Letter Greater Than Target](src/SmallestLetterGreaterThanTarget.java) |    Easy    |    100%     |         BS          |
 |  876   |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 |  977   |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
-##### Total: 23
+##### Total: 24
 
 
 ## Arrays
@@ -72,9 +73,10 @@
 
 
 ## Binary Tree
-| Number |                        Problem                         | Difficulty | Beat (Time) |   Note   |
-|:------:|:------------------------------------------------------:|:----------:|:-----------:|:--------:|
-|  617   | [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java) |    Easy    |    100%     | DFS, BFS |
+| Number |                                   Problem                                    | Difficulty | Beat (Time) |   Note   |
+|:------:|:----------------------------------------------------------------------------:|:----------:|:-----------:|:--------:|
+|  116   | [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java) |   Medium   |    100%     |   层序遍历   |
+|  617   |            [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)            |    Easy    |    100%     | DFS, BFS |
 
 
 ## Depth First Search
