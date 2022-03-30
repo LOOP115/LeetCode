@@ -45,7 +45,8 @@
 |  744   | [Find Smallest Letter Greater Than Target](src/SmallestLetterGreaterThanTarget.java) |    Easy    |    100%     |         BS          |
 |  876   |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 |  977   |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
-##### Total: 25
+|  994   |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
+##### Total: 26
 
 
 ## Arrays
@@ -83,9 +84,10 @@
 
 
 ## Breadth First Search
-| Number |               Problem               | Difficulty | Beat (Time) |  Note   |
-|:------:|:-----------------------------------:|:----------:|:-----------:|:-------:|
-|  542   | [01 Matrix](src/ZeroOneMatrix.java) |   Medium   |   98.95%    | DP, BFS |
+| Number |                  Problem                   | Difficulty | Beat (Time) |  Note   |
+|:------:|:------------------------------------------:|:----------:|:-----------:|:-------:|
+|  542   |    [01 Matrix](src/ZeroOneMatrix.java)     |   Medium   |   98.95%    | DP, BFS |
+|  994   | [Rotting Oranges](src/RottingOranges.java) |   Medium   |    100%     |   BFS   |
 
 
 ## Depth First Search
