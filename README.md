@@ -2,9 +2,11 @@
 ## Categories
 > __Algorithms__
 * [Binary Search](#binary-search)
+* [Breadth First Search](#breadth-first-search)
+* [Depth First Search](#depth-first-search)
+* [Dynamic Programming](#dynamic-programming)
 * [Sliding Window](#sliding-window)
 * [Two Pointers](#two-pointers)
-* [Depth First Search](#depth-first-search)
 
 
 > __Data Structures__
@@ -33,6 +35,7 @@
 |  367   |                 [Valid Perfect Square](src/ValidPerfectSquare.java)                  |    Easy    |    100%     |        类似 69        |
 |  374   |                  [Guess Number Higher or Lower](src/GuessNum.java)                   |    Easy    |    100%     |         BS          |
 |  441   |                       [Arranging Coins](src/ArrangeCoins.java)                       |    Easy    |   97.93%    |      Math, BS       |
+|  542   |                         [01 Matrix](src/ZeroOneMatrix.java)                          |   Medium   |   98.95%    |       DP, BFS       |
 |  557   |          [Reverse Words in a String III](src/ReverseWordsInStringIII.java)           |    Easy    |    100%     |         双指针         |
 |  567   |                [Permutation in String](src/PermutationInString.java)                 |   Medium   |    100%     |      滑动窗口, 双指针      |
 |  617   |                [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)                |    Easy    |    100%     |      DFS, BFS       |
@@ -42,7 +45,7 @@
 |  744   | [Find Smallest Letter Greater Than Target](src/SmallestLetterGreaterThanTarget.java) |    Easy    |    100%     |         BS          |
 |  876   |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 |  977   |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
-##### Total: 24
+##### Total: 25
 
 
 ## Arrays
@@ -79,12 +82,24 @@
 |  617   |            [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)            |    Easy    |    100%     | DFS, BFS |
 
 
+## Breadth First Search
+| Number |               Problem               | Difficulty | Beat (Time) |  Note   |
+|:------:|:-----------------------------------:|:----------:|:-----------:|:-------:|
+|  542   | [01 Matrix](src/ZeroOneMatrix.java) |   Medium   |   98.95%    | DP, BFS |
+
+
 ## Depth First Search
 | Number |                        Problem                         | Difficulty | Beat (Time) |   Note   |
 |:------:|:------------------------------------------------------:|:----------:|:-----------:|:--------:|
 |  733   |            [Flood Fill](src/FloodFill.java)            |    Easy    |    100%     | DFS, BFS |
 |  617   | [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java) |    Easy    |    100%     | DFS, BFS |
 |  695   |     [Max Area of Island](src/MaxAreaOfIsland.java)     |   Medium   |    100%     | DFS, BFS |
+
+
+## Dynamic Programming
+| Number |               Problem               | Difficulty | Beat (Time) |  Note   |
+|:------:|:-----------------------------------:|:----------:|:-----------:|:-------:|
+|  542   | [01 Matrix](src/ZeroOneMatrix.java) |   Medium   |   98.95%    | DP, BFS |
 
 
 ## Hash Map
