@@ -22,6 +22,7 @@
 |:------:|:------------------------------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
 |   3    | [Longest Substring Without Repeating Characters](src/LengthOfLongestSubstring.java)  |   Medium   |    100%     |     Set? + 滑动窗口     |
 |   19   |            [Remove Nth Node From End of List](src/RemoveNthFromEnd.java)             |   Medium   |    100%     |     Stack, 双指针      |
+|   21   |                [Merge Two Sorted Lists](src/MergeTwoSortedLists.java)                |    Easy    |    100%     |      Recursion      |
 |   35   |               [Search Insert Position](src/SearchInsertPosition.java)                |    Easy    |    100%     |         BS          |
 |   69   |                               [Sqrt(x)](src/Sqrt.java)                               |    Easy    |    100%     |   Math, 牛顿迭代, BS    |
 |  116   |     [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java)     |   Medium   |    100%     |        层序遍历         |
@@ -114,6 +115,7 @@
 | Number |                            Problem                            | Difficulty | Beat (Time) |    Note    |
 |:------:|:-------------------------------------------------------------:|:----------:|:-----------:|:----------:|
 |   19   | [Remove Nth Node From End of List](src/RemoveNthFromEnd.java) |   Medium   |    100%     | Stack, 双指针 |
+|   21   |    [Merge Two Sorted Lists](src/MergeTwoSortedLists.java)     |    Easy    |    100%     | Recursion  |
 |  876   |     [Middle of the Linked List](src/MiddleLinkList.java)      |    Easy    |    100%     |    双指针     |
 
 
