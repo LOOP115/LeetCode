@@ -28,6 +28,7 @@
 |  116   |     [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java)     |   Medium   |    100%     |        层序遍历         |
 |  167   |               [Two Sum II - Input Array is Sorted](src/TwoSumII.java)                |   Medium   |    100%     |       BS, 双指针       |
 |  189   |                         [Rotate Array](src/RotateArray.java)                         |   Medium   |    100%     |    Math, Reverse    |
+|  206   |                  [Reverse Linked List](src/ReverseLinkedList.java)                   |    Easy    |    100%     |      Recursion      |
 |  278   |                    [First Bad Version](src/FirstBadVersion.java)                     |    Easy    |   99.95%    |         BS          |
 |  283   |                           [Move Zeros](src/MoveZeros.java)                           |    Easy    |    100%     |        双指针?         |
 |  344   |                       [Reverse String](src/ReverseString.java)                       |    Easy    |    100%     |         双指针         |
@@ -47,7 +48,7 @@
 |  876   |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 |  977   |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 |  994   |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 26
+##### Total: 28
 
 
 ## Arrays
@@ -116,6 +117,7 @@
 |:------:|:-------------------------------------------------------------:|:----------:|:-----------:|:----------:|
 |   19   | [Remove Nth Node From End of List](src/RemoveNthFromEnd.java) |   Medium   |    100%     | Stack, 双指针 |
 |   21   |    [Merge Two Sorted Lists](src/MergeTwoSortedLists.java)     |    Easy    |    100%     | Recursion  |
+|  206   |       [Reverse Linked List](src/ReverseLinkedList.java)       |    Easy    |    100%     | Recursion  |
 |  876   |     [Middle of the Linked List](src/MiddleLinkList.java)      |    Easy    |    100%     |    双指针     |
 
 
