@@ -14,6 +14,7 @@
 * [Binary Tree](#binary-tree)
 * [Hash Map](#hash-map)
 * [Linked List](#linked-list)
+* [Segment Tree](#segment-tree)
 * [Set](#set)
 
 
@@ -24,6 +25,7 @@
 |   19   |            [Remove Nth Node From End of List](src/RemoveNthFromEnd.java)             |   Medium   |    100%     |     Stack, 双指针      |
 |   21   |                [Merge Two Sorted Lists](src/MergeTwoSortedLists.java)                |    Easy    |    100%     |      Recursion      |
 |   35   |               [Search Insert Position](src/SearchInsertPosition.java)                |    Easy    |    100%     |         BS          |
+|   53   |                       [Maximum Subarray](src/MaxSubarray.java)                       |    Easy    |    100%     |     贪心, DP, 线段树     |
 |   69   |                               [Sqrt(x)](src/Sqrt.java)                               |    Easy    |    100%     |   Math, 牛顿迭代, BS    |
 |  116   |     [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java)     |   Medium   |    100%     |        层序遍历         |
 |  167   |               [Two Sum II - Input Array is Sorted](src/TwoSumII.java)                |   Medium   |    100%     |       BS, 双指针       |
@@ -49,7 +51,7 @@
 |  876   |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 |  977   |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 |  994   |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 29
+##### Total: 30
 
 
 ## Arrays
@@ -102,9 +104,10 @@
 
 
 ## Dynamic Programming
-| Number |               Problem               | Difficulty | Beat (Time) |  Note   |
-|:------:|:-----------------------------------:|:----------:|:-----------:|:-------:|
-|  542   | [01 Matrix](src/ZeroOneMatrix.java) |   Medium   |   98.95%    | DP, BFS |
+| Number |                 Problem                  | Difficulty | Beat (Time) |    Note     |
+|:------:|:----------------------------------------:|:----------:|:-----------:|:-----------:|
+|   53   | [Maximum Subarray](src/MaxSubarray.java) |    Easy    |    100%     | 贪心, DP, 线段树 |
+|  542   |   [01 Matrix](src/ZeroOneMatrix.java)    |   Medium   |   98.95%    |   DP, BFS   |
 
 
 ## Hash Map
@@ -120,6 +123,12 @@
 |   21   |    [Merge Two Sorted Lists](src/MergeTwoSortedLists.java)     |    Easy    |    100%     | Recursion  |
 |  206   |       [Reverse Linked List](src/ReverseLinkedList.java)       |    Easy    |    100%     | Recursion  |
 |  876   |     [Middle of the Linked List](src/MiddleLinkList.java)      |    Easy    |    100%     |    双指针     |
+
+
+## Segment Tree
+| Number |               Problem               | Difficulty | Beat (Time) |  Note   |
+|:------:|:-----------------------------------:|:----------:|:-----------:|:-------:|
+|  542   | [01 Matrix](src/ZeroOneMatrix.java) |   Medium   |   98.95%    | DP, BFS |
 
 
 ## Set
