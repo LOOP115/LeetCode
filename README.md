@@ -3,6 +3,7 @@
 > __Algorithms__
 * [Backtracking](#backtracking)
 * [Binary Search](#binary-search)
+* [Bit Manipulation](#bit-manipulation)
 * [Breadth First Search](#breadth-first-search)
 * [Depth First Search](#depth-first-search)
 * [Dynamic Programming](#dynamic-programming)
@@ -17,6 +18,7 @@
 * [Linked List](#linked-list)
 * [Segment Tree](#segment-tree)
 * [Set](#set)
+* [String](#string)
 
 
 ## Summary
@@ -53,10 +55,11 @@
 |  704   |                        [Binary Search](src/BinarySearch.java)                        |    Easy    |    100%     |         BS          |
 |  733   |                           [Flood Fill](src/FloodFill.java)                           |    Easy    |    100%     |      DFS, BFS       |
 |  744   | [Find Smallest Letter Greater Than Target](src/SmallestLetterGreaterThanTarget.java) |    Easy    |    100%     |         BS          |
+|  784   |              [Letter Case Permutation](src/LetterCasePermutation.java)               |   Medium   |    100%     |       回溯, Bit       |
 |  876   |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 |  977   |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 |  994   |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 34
+##### Total: 35
 
 
 ## Arrays
@@ -78,10 +81,11 @@
 
 
 ## Backtracking
-| Number |                Problem                | Difficulty | Beat (Time) |  Note   |
-|:------:|:-------------------------------------:|:----------:|:-----------:|:-------:|
-|   46   | [Permutations](src/Permutations.java) |   Medium   |    100%     |   回溯    |
-|   77   | [Combinations](src/Combinations.java) |   Medium   |   99.99%    | 回溯, 字典序 |
+| Number |                          Problem                          | Difficulty | Beat (Time) |  Note   |
+|:------:|:---------------------------------------------------------:|:----------:|:-----------:|:-------:|
+|   46   |           [Permutations](src/Permutations.java)           |   Medium   |    100%     |   回溯    |
+|   77   |           [Combinations](src/Combinations.java)           |   Medium   |   99.99%    | 回溯, 字典序 |
+|  784   | [Letter Case Permutation](src/LetterCasePermutation.java) |   Medium   |    100%     | 回溯, Bit |
 
 
 ## Binary Search
@@ -104,6 +108,12 @@
 |:------:|:----------------------------------------------------------------------------:|:----------:|:-----------:|:--------:|
 |  116   | [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java) |   Medium   |    100%     |   层序遍历   |
 |  617   |            [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)            |    Easy    |    100%     | DFS, BFS |
+
+
+## Bit Manipulation
+| Number |                          Problem                          | Difficulty | Beat (Time) |  Note   |
+|:------:|:---------------------------------------------------------:|:----------:|:-----------:|:-------:|
+|  784   | [Letter Case Permutation](src/LetterCasePermutation.java) |   Medium   |    100%     | 回溯, Bit |
 
 
 ## Breadth First Search
@@ -162,6 +172,13 @@
 |:------:|:-----------------------------------------------------------------------------------:|:----------:|:-----------:|:-----------:|
 |   3    | [Longest Substring Without Repeating Characters](src/LengthOfLongestSubstring.java) |   Medium   |    100%     | Set? + 滑动窗口 |
 |  567   |                [Permutation in String](src/PermutationInString.java)                |   Medium   |    100%     |  滑动窗口，双指针   |
+
+
+## String
+| Number |                          Problem                          | Difficulty | Beat (Time) |  Note   |
+|:------:|:---------------------------------------------------------:|:----------:|:-----------:|:-------:|
+|   46   |           [Permutations](src/Permutations.java)           |   Medium   |    100%     |   回溯    |
+|  784   | [Letter Case Permutation](src/LetterCasePermutation.java) |   Medium   |    100%     | 回溯, Bit |
 
 
 ## Two Pointers
