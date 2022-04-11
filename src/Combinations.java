@@ -3,14 +3,15 @@ import java.util.List;
 
 public class Combinations {
 
-    static List<Integer> temp = new ArrayList<Integer>();
-    static List<List<Integer>> ans = new ArrayList<List<Integer>>();
+    public static List<Integer> temp = new ArrayList<Integer>();
+    public static List<List<Integer>> ans = new ArrayList<List<Integer>>();
 
+    // Solution 1  回溯 递归实现组合型枚举  99.99%
     public static List<List<Integer>> combine1(int n, int k) {
         dfs(1, n, k);
         return ans;
     }
-    // Solution 1  回溯 递归实现组合型枚举  99.99%
+
     public static void dfs(int cur, int n, int k) {
         // 剪枝：temp 长度加上区间 [cur, n] 的长度小于 k，不可能构造出长度为 k 的 temp
         // e.g. temp = [1]  cur = 5  此时不可能组合
@@ -63,4 +64,5 @@ public class Combinations {
     public static void main(String[] args) {
         System.out.println(combine2(4, 2));
     }
+
 }
