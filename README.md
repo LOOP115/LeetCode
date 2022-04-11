@@ -1,6 +1,7 @@
 # LeetCode Exercise Records
 ## Categories
 > __Algorithms__
+* [Backtracking](#backtracking)
 * [Binary Search](#binary-search)
 * [Breadth First Search](#breadth-first-search)
 * [Depth First Search](#depth-first-search)
@@ -28,6 +29,7 @@
 |   35   |               [Search Insert Position](src/SearchInsertPosition.java)                |    Easy    |    100%     |         BS          |
 |   53   |                       [Maximum Subarray](src/MaxSubarray.java)                       |    Easy    |    100%     |     贪心, DP, 线段树     |
 |   69   |                               [Sqrt(x)](src/Sqrt.java)                               |    Easy    |    100%     |   Math, 牛顿迭代, BS    |
+|   77   |                        [Combinations](src/Combinations.java)                         |   Medium   |   99.99%    |       回溯, 字典序       |
 |   88   |                   [Merge Sorted Array](src/MergeSortedArray.java)                    |    Easy    |    100%     |         双指针         |
 |  116   |     [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java)     |   Medium   |    100%     |        层序遍历         |
 |  167   |               [Two Sum II - Input Array is Sorted](src/TwoSumII.java)                |   Medium   |    100%     |       BS, 双指针       |
@@ -53,7 +55,7 @@
 |  876   |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 |  977   |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 |  994   |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 32
+##### Total: 33
 
 
 ## Arrays
@@ -61,6 +63,7 @@
 |:------:|:-----------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
 |   1    |                    [Two Sum](src/TwoSum.java)                     |    Easy    |   99.38%    |       HashMap       |
 |   53   |             [Maximum Subarray](src/MaxSubarray.java)              |    Easy    |    100%     |     贪心, DP, 线段树     |
+|   77   |               [Combinations](src/Combinations.java)               |   Medium   |   99.99%    |       回溯, 字典序       |
 |   88   |          [Merge Sorted Array](src/MergeSortedArray.java)          |    Easy    |    100%     |         双指针         |
 |  167   |      [Two Sum II - Input Array is Sorted](src/TwoSumII.java)      |   Medium   |    100%     |       BS, 双指针       |
 |  189   |               [Rotate Array](src/RotateArray.java)                |   Medium   |    100%     |    Math, Reverse    |
@@ -70,6 +73,12 @@
 |  350   |  [Intersection of Two Arrays II](src/IntersectTwoArraysII.java)   |    Easy    |   89.79%    | HashMap, Sort + 双指针 |
 |  557   | [Reverse Words in a String III](src/ReverseWordsInStringIII.java) |    Easy    |    100%     |         双指针         |
 |  977   |     [Squares of a Sorted Array](src/SquaresSortedArray.java)      |    Easy    |    100%     |         双指针         |
+
+
+## Backtracking
+| Number |                Problem                | Difficulty | Beat (Time) |  Note   |
+|:------:|:-------------------------------------:|:----------:|:-----------:|:-------:|
+|   77   | [Combinations](src/Combinations.java) |   Medium   |   99.99%    | 回溯, 字典序 |
 
 
 ## Binary Search
