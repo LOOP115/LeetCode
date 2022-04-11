@@ -28,6 +28,7 @@
 |   35   |               [Search Insert Position](src/SearchInsertPosition.java)                |    Easy    |    100%     |         BS          |
 |   53   |                       [Maximum Subarray](src/MaxSubarray.java)                       |    Easy    |    100%     |     贪心, DP, 线段树     |
 |   69   |                               [Sqrt(x)](src/Sqrt.java)                               |    Easy    |    100%     |   Math, 牛顿迭代, BS    |
+|   88   |                   [Merge Sorted Array](src/MergeSortedArray.java)                    |    Easy    |    100%     |         双指针         |
 |  116   |     [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java)     |   Medium   |    100%     |        层序遍历         |
 |  167   |               [Two Sum II - Input Array is Sorted](src/TwoSumII.java)                |   Medium   |    100%     |       BS, 双指针       |
 |  189   |                         [Rotate Array](src/RotateArray.java)                         |   Medium   |    100%     |    Math, Reverse    |
@@ -52,7 +53,7 @@
 |  876   |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 |  977   |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 |  994   |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 31
+##### Total: 32
 
 
 ## Arrays
@@ -60,6 +61,7 @@
 |:------:|:-----------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
 |   1    |                    [Two Sum](src/TwoSum.java)                     |    Easy    |   99.38%    |       HashMap       |
 |   53   |             [Maximum Subarray](src/MaxSubarray.java)              |    Easy    |    100%     |     贪心, DP, 线段树     |
+|   88   |          [Merge Sorted Array](src/MergeSortedArray.java)          |    Easy    |    100%     |         双指针         |
 |  167   |      [Two Sum II - Input Array is Sorted](src/TwoSumII.java)      |   Medium   |    100%     |       BS, 双指针       |
 |  189   |               [Rotate Array](src/RotateArray.java)                |   Medium   |    100%     |    Math, Reverse    |
 |  283   |                 [Move Zeros](src/MoveZeros.java)                  |    Easy    |    100%     |        双指针?         |
@@ -154,6 +156,7 @@
 | Number |                              Problem                              | Difficulty | Beat (Time) |        Note         |
 |:------:|:-----------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
 |   19   |   [Remove Nth Node From End of List](src/RemoveNthFromEnd.java)   |   Medium   |    100%     |     Stack, 双指针      |
+|   88   |          [Merge Sorted Array](src/MergeSortedArray.java)          |    Easy    |    100%     |         双指针         |
 |  167   |      [Two Sum II - Input Array is Sorted](src/TwoSumII.java)      |   Medium   |    100%     |       BS, 双指针       |
 |  283   |                 [Move Zeros](src/MoveZeros.java)                  |    Easy    |    100%     |        双指针?         |
 |  344   |             [Reverse String](src/ReverseString.java)              |    Easy    |    100%     |         双指针         |
