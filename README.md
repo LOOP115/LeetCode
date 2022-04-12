@@ -32,6 +32,7 @@
 |   46   |                        [Permutations](src/Permutations.java)                         |   Medium   |    100%     |         回溯          |
 |   53   |                       [Maximum Subarray](src/MaxSubarray.java)                       |    Easy    |    100%     |     贪心, DP, 线段树     |
 |   69   |                               [Sqrt(x)](src/Sqrt.java)                               |    Easy    |    100%     |   Math, 牛顿迭代, BS    |
+|   70   |                      [Climbing Stairs](src/ClimbingStairs.java)                      |    Easy    |    100%     |   DP, Math, Memo    |
 |   77   |                        [Combinations](src/Combinations.java)                         |   Medium   |   99.99%    |       回溯, 字典序       |
 |   88   |                   [Merge Sorted Array](src/MergeSortedArray.java)                    |    Easy    |    100%     |         双指针         |
 |  116   |     [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java)     |   Medium   |    100%     |        层序遍历         |
@@ -60,7 +61,7 @@
 |  876   |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 |  977   |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 |  994   |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 36
+##### Total: 37
 
 
 ## Arrays
@@ -134,11 +135,12 @@
 
 
 ## Dynamic Programming
-| Number |                             Problem                              | Difficulty | Beat (Time) |    Note     |
-|:------:|:----------------------------------------------------------------:|:----------:|:-----------:|:-----------:|
-|   53   |             [Maximum Subarray](src/MaxSubarray.java)             |    Easy    |    100%     | 贪心, DP, 线段树 |
-|  121   | [Best Time to Buy and Sell Stock](src/BestTimeBuySellStock.java) |    Easy    |    100%     |     DP      |
-|  542   |               [01 Matrix](src/ZeroOneMatrix.java)                |   Medium   |   98.95%    |   DP, BFS   |
+| Number |                             Problem                              | Difficulty | Beat (Time) |      Note      |
+|:------:|:----------------------------------------------------------------:|:----------:|:-----------:|:--------------:|
+|   53   |             [Maximum Subarray](src/MaxSubarray.java)             |    Easy    |    100%     |  贪心, DP, 线段树   |
+|   70   |            [Climbing Stairs](src/ClimbingStairs.java)            |    Easy    |    100%     | DP, Math, Memo |
+|  121   | [Best Time to Buy and Sell Stock](src/BestTimeBuySellStock.java) |    Easy    |    100%     |       DP       |
+|  542   |               [01 Matrix](src/ZeroOneMatrix.java)                |   Medium   |   98.95%    |    DP, BFS     |
 
 
 ## Hash Map
