@@ -23,7 +23,7 @@
 
 ## Summary
 | ID  |                                       Problem                                        | Difficulty | Beat (Time) |        Note         |
-|-----|:------------------------------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
+|:---:|:------------------------------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
 |  1  |                              [Two Sum](src/TwoSum.java)                              |    Easy    |   99.38%    |       HashMap       |
 |  3  | [Longest Substring Without Repeating Characters](src/LengthOfLongestSubstring.java)  |   Medium   |    100%     |     Set? + 滑动窗口     |
 | 19  |            [Remove Nth Node From End of List](src/RemoveNthFromEnd.java)             |   Medium   |    100%     |     Stack, 双指针      |
@@ -188,7 +188,7 @@
 
 ## Two Pointers
 | ID  |                              Problem                              | Difficulty | Beat (Time) |        Note         |
-|-----|:-----------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
+|:---:|:-----------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
 | 19  |   [Remove Nth Node From End of List](src/RemoveNthFromEnd.java)   |   Medium   |    100%     |     Stack, 双指针      |
 | 88  |          [Merge Sorted Array](src/MergeSortedArray.java)          |    Easy    |    100%     |         双指针         |
 | 167 |      [Two Sum II - Input Array is Sorted](src/TwoSumII.java)      |   Medium   |    100%     |       BS, 双指针       |
