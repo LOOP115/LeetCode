@@ -37,6 +37,7 @@
 | 88  |                   [Merge Sorted Array](src/MergeSortedArray.java)                    |    Easy    |    100%     |         双指针         |
 | 116 |     [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java)     |   Medium   |    100%     |        层序遍历         |
 | 118 |                     [Pascal's Triangle](src/PascalTriangle.java)                     |    Easy    |    100%     |         DP          |
+| 120 |                            [Triangle](src/Triangle.java)                             |   Medium   |   96.09%    |         DP          |
 | 121 |           [Best Time to Buy and Sell Stock](src/BestTimeBuySellStock.java)           |    Easy    |    100%     |         DP          |
 | 167 |               [Two Sum II - Input Array is Sorted](src/TwoSumII.java)                |   Medium   |    100%     |       BS, 双指针       |
 | 189 |                         [Rotate Array](src/RotateArray.java)                         |   Medium   |    100%     |    Math, Reverse    |
@@ -64,7 +65,7 @@
 | 876 |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 | 977 |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 | 994 |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 40
+##### Total: 41
 
 
 ## Arrays
@@ -144,6 +145,7 @@
 | 53  |             [Maximum Subarray](src/MaxSubarray.java)             |    Easy    |    100%     |  贪心, DP, 线段树   |
 | 70  |            [Climbing Stairs](src/ClimbingStairs.java)            |    Easy    |    100%     | DP, Math, Memo |
 | 118 |           [Pascal's Triangle](src/PascalTriangle.java)           |    Easy    |    100%     |       DP       |
+| 120 |                  [Triangle](src/Triangle.java)                   |   Medium   |   96.09%    |       DP       |
 | 121 | [Best Time to Buy and Sell Stock](src/BestTimeBuySellStock.java) |    Easy    |    100%     |       DP       |
 | 198 |               [House Robber](src/HouseRobber.java)               |   Medium   |    100%     |       DP       |
 | 542 |               [01 Matrix](src/ZeroOneMatrix.java)                |   Medium   |   98.95%    |    DP, BFS     |
