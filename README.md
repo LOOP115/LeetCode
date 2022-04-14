@@ -29,11 +29,12 @@
 | 19  |            [Remove Nth Node From End of List](src/RemoveNthFromEnd.java)             |   Medium   |    100%     |     Stack, 双指针      |
 | 21  |                [Merge Two Sorted Lists](src/MergeTwoSortedLists.java)                |    Easy    |    100%     |      Recursion      |
 | 35  |               [Search Insert Position](src/SearchInsertPosition.java)                |    Easy    |    100%     |         BS          |
-| 36  |                         [Valid Sudoku](src/ValidSudoku.java)                         |   Medium   |   99.68%    |       Sudoku        |
+| 36  |                         [Valid Sudoku](src/ValidSudoku.java)                         |   Medium   |   99.68%    |        Array        |
 | 46  |                        [Permutations](src/Permutations.java)                         |   Medium   |    100%     |         回溯          |
 | 53  |                       [Maximum Subarray](src/MaxSubarray.java)                       |    Easy    |    100%     |     贪心, DP, 线段树     |
 | 69  |                               [Sqrt(x)](src/Sqrt.java)                               |    Easy    |    100%     |   Math, 牛顿迭代, BS    |
 | 70  |                      [Climbing Stairs](src/ClimbingStairs.java)                      |    Easy    |    100%     |   DP, Math, Memo    |
+| 73  |                    [Set Matrix Zeroes](src/SetMatrixZeroes.java)                     |   Medium   |    100%     |        Array        |
 | 77  |                        [Combinations](src/Combinations.java)                         |   Medium   |   99.99%    |       回溯, 字典序       |
 | 88  |                   [Merge Sorted Array](src/MergeSortedArray.java)                    |    Easy    |    100%     |         双指针         |
 | 116 |     [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java)     |   Medium   |    100%     |        层序遍历         |
@@ -66,16 +67,17 @@
 | 876 |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 | 977 |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 | 994 |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 42
+##### Total: 43
 
 
 ## Arrays
 | ID  |                              Problem                              | Difficulty | Beat (Time) |        Note         |
 |:---:|:-----------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
 |  1  |                    [Two Sum](src/TwoSum.java)                     |    Easy    |   99.38%    |       HashMap       |
-| 36  |               [Valid Sudoku](src/ValidSudoku.java)                |   Medium   |   99.68%    |       Sudoku        |
+| 36  |               [Valid Sudoku](src/ValidSudoku.java)                |   Medium   |   99.68%    |        Array        |
 | 46  |               [Permutations](src/Permutations.java)               |   Medium   |    100%     |         回溯          |
 | 53  |             [Maximum Subarray](src/MaxSubarray.java)              |    Easy    |    100%     |     贪心, DP, 线段树     |
+| 73  |           [Set Matrix Zeroes](src/SetMatrixZeroes.java)           |   Medium   |    100%     |        Array        |
 | 77  |               [Combinations](src/Combinations.java)               |   Medium   |   99.99%    |       回溯, 字典序       |
 | 88  |          [Merge Sorted Array](src/MergeSortedArray.java)          |    Easy    |    100%     |         双指针         |
 | 121 | [Best Time to Buy and Sell Stock](src/BestTimeBuySellStock.java)  |    Easy    |    100%     |         DP          |
