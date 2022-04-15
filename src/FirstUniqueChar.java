@@ -72,7 +72,7 @@ public class FirstUniqueChar {
         int[] arr = new int[26];
         int n = s.length();
         for (int i = 0; i < n; i++) {
-            arr[s.charAt(i)-'a']++ ;
+            arr[s.charAt(i)-'a']++;
         }
         for (int i = 0; i < n; i++) {
             if (arr[s.charAt(i)-'a'] == 1) {
