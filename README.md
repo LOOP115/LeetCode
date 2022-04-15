@@ -43,6 +43,7 @@
 | 121 |           [Best Time to Buy and Sell Stock](src/BestTimeBuySellStock.java)           |    Easy    |    100%     |         DP          |
 | 167 |               [Two Sum II - Input Array is Sorted](src/TwoSumII.java)                |   Medium   |    100%     |       BS, 双指针       |
 | 189 |                         [Rotate Array](src/RotateArray.java)                         |   Medium   |    100%     |    Math, Reverse    |
+| 190 |                         [Reverse Bits](src/ReverseBits.java)                         |    Easy    |    100%     |       Bit, 分治       |
 | 191 |                       [Number of 1 Bits](src/RotateArray.java)                       |    Easy    |    100%     |         Bit         |
 | 198 |                         [House Robber](src/HouseRobber.java)                         |   Medium   |    100%     |         DP          |
 | 206 |                  [Reverse Linked List](src/ReverseLinkedList.java)                   |    Easy    |    100%     |      Recursion      |
@@ -72,7 +73,7 @@
 | 876 |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 | 977 |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 | 994 |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 48
+##### Total: 49
 
 
 ## Arrays
@@ -130,6 +131,7 @@
 ## Bit Manipulation
 | ID  |                          Problem                          | Difficulty | Beat (Time) |  Note   |
 |:---:|:---------------------------------------------------------:|:----------:|:-----------:|:-------:|
+| 190 |           [Reverse Bits](src/ReverseBits.java)            |    Easy    |    100%     | Bit, 分治 |
 | 191 |         [Number of 1 Bits](src/RotateArray.java)          |    Easy    |    100%     |   Bit   |
 | 231 |        [Power of Two](src/ContainsDuplicate.java)         |    Easy    |    100%     |   Bit   |
 | 784 | [Letter Case Permutation](src/LetterCasePermutation.java) |   Medium   |    100%     | 回溯, Bit |
