@@ -41,6 +41,7 @@
 | 118 |                     [Pascal's Triangle](src/PascalTriangle.java)                     |    Easy    |    100%     |         DP          |
 | 120 |                            [Triangle](src/Triangle.java)                             |   Medium   |   96.09%    |         DP          |
 | 121 |           [Best Time to Buy and Sell Stock](src/BestTimeBuySellStock.java)           |    Easy    |    100%     |         DP          |
+| 136 |                        [Single Number](src/SingleNumber.java)                        |    Easy    |    100%     |         Bit         |
 | 167 |               [Two Sum II - Input Array is Sorted](src/TwoSumII.java)                |   Medium   |    100%     |       BS, 双指针       |
 | 189 |                         [Rotate Array](src/RotateArray.java)                         |   Medium   |    100%     |    Math, Reverse    |
 | 190 |                         [Reverse Bits](src/ReverseBits.java)                         |    Easy    |    100%     |       Bit, 分治       |
@@ -73,7 +74,7 @@
 | 876 |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 | 977 |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 | 994 |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 49
+##### Total: 50
 
 
 ## Arrays
@@ -131,6 +132,7 @@
 ## Bit Manipulation
 | ID  |                          Problem                          | Difficulty | Beat (Time) |  Note   |
 |:---:|:---------------------------------------------------------:|:----------:|:-----------:|:-------:|
+| 136 |          [Single Number](src/SingleNumber.java)           |    Easy    |    100%     |   Bit   |
 | 190 |           [Reverse Bits](src/ReverseBits.java)            |    Easy    |    100%     | Bit, 分治 |
 | 191 |         [Number of 1 Bits](src/RotateArray.java)          |    Easy    |    100%     |   Bit   |
 | 231 |        [Power of Two](src/ContainsDuplicate.java)         |    Easy    |    100%     |   Bit   |
