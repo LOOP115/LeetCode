@@ -36,6 +36,7 @@
 | 70  |                      [Climbing Stairs](src/ClimbingStairs.java)                      |    Easy    |    100%     |   DP, Math, Memo    |
 | 73  |                    [Set Matrix Zeroes](src/SetMatrixZeroes.java)                     |   Medium   |    100%     |        Array        |
 | 77  |                        [Combinations](src/Combinations.java)                         |   Medium   |   99.99%    |       回溯, 字典序       |
+| 83  |       [Remove Duplicates from Sorted List](src/RemoveDupsFromSortedList.java)        |    Easy    |    100%     |         遍历          |
 | 88  |                   [Merge Sorted Array](src/MergeSortedArray.java)                    |    Easy    |    100%     |         双指针         |
 | 116 |     [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java)     |   Medium   |    100%     |        层序遍历         |
 | 118 |                     [Pascal's Triangle](src/PascalTriangle.java)                     |    Easy    |    100%     |         DP          |
@@ -76,7 +77,7 @@
 | 876 |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 | 977 |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 | 994 |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 52
+##### Total: 53
 
 
 ## Arrays
@@ -179,14 +180,15 @@
 
 
 ## Linked List
-| ID  |                            Problem                            | Difficulty | Beat (Time) |    Note    |
-|:---:|:-------------------------------------------------------------:|:----------:|:-----------:|:----------:|
-| 19  | [Remove Nth Node From End of List](src/RemoveNthFromEnd.java) |   Medium   |    100%     | Stack, 双指针 |
-| 21  |    [Merge Two Sorted Lists](src/MergeTwoSortedLists.java)     |    Easy    |    100%     |     递归     |
-| 141 |         [Linked List Cycle](src/LinkedListCycle.java)         |    Easy    |    100%     |    双指针     |
-| 203 | [Remove Linked List Elements](src/RemoveLinkedListNodes.java) |    Easy    |    100%     |     递归     |
-| 206 |       [Reverse Linked List](src/ReverseLinkedList.java)       |    Easy    |    100%     |     递归     |
-| 876 |     [Middle of the Linked List](src/MiddleLinkList.java)      |    Easy    |    100%     |    双指针     |
+| ID  |                                 Problem                                 | Difficulty | Beat (Time) |    Note    |
+|:---:|:-----------------------------------------------------------------------:|:----------:|:-----------:|:----------:|
+| 19  |      [Remove Nth Node From End of List](src/RemoveNthFromEnd.java)      |   Medium   |    100%     | Stack, 双指针 |
+| 21  |         [Merge Two Sorted Lists](src/MergeTwoSortedLists.java)          |    Easy    |    100%     |     递归     |
+| 83  | [Remove Duplicates from Sorted List](src/RemoveDupsFromSortedList.java) |    Easy    |    100%     |     遍历     |
+| 141 |              [Linked List Cycle](src/LinkedListCycle.java)              |    Easy    |    100%     |    双指针     |
+| 203 |      [Remove Linked List Elements](src/RemoveLinkedListNodes.java)      |    Easy    |    100%     |     递归     |
+| 206 |            [Reverse Linked List](src/ReverseLinkedList.java)            |    Easy    |    100%     |     递归     |
+| 876 |          [Middle of the Linked List](src/MiddleLinkList.java)           |    Easy    |    100%     |    双指针     |
 
 
 ## Segment Tree
