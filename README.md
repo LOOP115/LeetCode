@@ -27,7 +27,7 @@
 |  1  |                              [Two Sum](src/TwoSum.java)                              |    Easy    |   99.38%    |       HashMap       |
 |  3  | [Longest Substring Without Repeating Characters](src/LengthOfLongestSubstring.java)  |   Medium   |    100%     |     Set? + 滑动窗口     |
 | 19  |            [Remove Nth Node From End of List](src/RemoveNthFromEnd.java)             |   Medium   |    100%     |     Stack, 双指针      |
-| 21  |                [Merge Two Sorted Lists](src/MergeTwoSortedLists.java)                |    Easy    |    100%     |      Recursion      |
+| 21  |                [Merge Two Sorted Lists](src/MergeTwoSortedLists.java)                |    Easy    |    100%     |         递归          |
 | 35  |               [Search Insert Position](src/SearchInsertPosition.java)                |    Easy    |    100%     |         BS          |
 | 36  |                         [Valid Sudoku](src/ValidSudoku.java)                         |   Medium   |   99.68%    |        Array        |
 | 46  |                        [Permutations](src/Permutations.java)                         |   Medium   |    100%     |         回溯          |
@@ -48,7 +48,8 @@
 | 190 |                         [Reverse Bits](src/ReverseBits.java)                         |    Easy    |    100%     |       Bit, 分治       |
 | 191 |                       [Number of 1 Bits](src/RotateArray.java)                       |    Easy    |    100%     |         Bit         |
 | 198 |                         [House Robber](src/HouseRobber.java)                         |   Medium   |    100%     |         DP          |
-| 206 |                  [Reverse Linked List](src/ReverseLinkedList.java)                   |    Easy    |    100%     |      Recursion      |
+| 203 |            [Remove Linked List Elements](src/RemoveLinkedListNodes.java)             |    Easy    |    100%     |         递归          |
+| 206 |                  [Reverse Linked List](src/ReverseLinkedList.java)                   |    Easy    |    100%     |         递归          |
 | 217 |                   [Contains Duplicate](src/ContainsDuplicate.java)                   |    Easy    |   99.08%    |         Set         |
 | 217 |                   [Contains Duplicate](src/ContainsDuplicate.java)                   |    Easy    |   99.08%    |         Set         |
 | 231 |                      [Power of Two](src/ContainsDuplicate.java)                      |    Easy    |    100%     |         Bit         |
@@ -75,7 +76,7 @@
 | 876 |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 | 977 |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 | 994 |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 51
+##### Total: 52
 
 
 ## Arrays
@@ -181,9 +182,10 @@
 | ID  |                            Problem                            | Difficulty | Beat (Time) |    Note    |
 |:---:|:-------------------------------------------------------------:|:----------:|:-----------:|:----------:|
 | 19  | [Remove Nth Node From End of List](src/RemoveNthFromEnd.java) |   Medium   |    100%     | Stack, 双指针 |
-| 21  |    [Merge Two Sorted Lists](src/MergeTwoSortedLists.java)     |    Easy    |    100%     | Recursion  |
+| 21  |    [Merge Two Sorted Lists](src/MergeTwoSortedLists.java)     |    Easy    |    100%     |     递归     |
 | 141 |         [Linked List Cycle](src/LinkedListCycle.java)         |    Easy    |    100%     |    双指针     |
-| 206 |       [Reverse Linked List](src/ReverseLinkedList.java)       |    Easy    |    100%     | Recursion  |
+| 203 | [Remove Linked List Elements](src/RemoveLinkedListNodes.java) |    Easy    |    100%     |     递归     |
+| 206 |       [Reverse Linked List](src/ReverseLinkedList.java)       |    Easy    |    100%     |     递归     |
 | 876 |     [Middle of the Linked List](src/MiddleLinkList.java)      |    Easy    |    100%     |    双指针     |
 
 
