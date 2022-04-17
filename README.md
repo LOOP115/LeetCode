@@ -55,10 +55,10 @@
 | 203 |            [Remove Linked List Elements](src/RemoveLinkedListNodes.java)             |    Easy    |    100%     |         递归          |
 | 206 |                  [Reverse Linked List](src/ReverseLinkedList.java)                   |    Easy    |    100%     |         递归          |
 | 217 |                   [Contains Duplicate](src/ContainsDuplicate.java)                   |    Easy    |   99.08%    |         Set         |
-| 217 |                   [Contains Duplicate](src/ContainsDuplicate.java)                   |    Easy    |   99.08%    |         Set         |
 | 231 |                      [Power of Two](src/ContainsDuplicate.java)                      |    Easy    |    100%     |         Bit         |
 | 232 |                   [Implement Queue using Stacks](src/MyQueue.java)                   |    Easy    |    100%     |  Stack, Queue, 摊还   |
 | 242 |                        [Valid Anagram](src/ValidAnagram.java)                        |    Easy    |    100%     |       HaspMap       |
+| 278 |                    [First Bad Version](src/FirstBadVersion.java)                     |    Easy    |   99.95%    |         BS          |
 | 283 |                           [Move Zeros](src/MoveZeros.java)                           |    Easy    |    100%     |        双指针?         |
 | 344 |                       [Reverse String](src/ReverseString.java)                       |    Easy    |    100%     |         双指针         |
 | 349 |              [Intersection of Two Arrays](src/IntersectTwoArrays.java)               |    Easy    |   93.84%    |   Set, Sort + 双指针   |
