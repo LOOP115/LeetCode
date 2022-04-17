@@ -16,8 +16,10 @@
 * [Binary Tree](#binary-tree)
 * [Hash Map](#hash-map)
 * [Linked List](#linked-list)
+* [Queue](#queue)
 * [Segment Tree](#segment-tree)
 * [Set](#set)
+* [Stack](#stack)
 * [String](#string)
 
 
@@ -55,6 +57,7 @@
 | 217 |                   [Contains Duplicate](src/ContainsDuplicate.java)                   |    Easy    |   99.08%    |         Set         |
 | 217 |                   [Contains Duplicate](src/ContainsDuplicate.java)                   |    Easy    |   99.08%    |         Set         |
 | 231 |                      [Power of Two](src/ContainsDuplicate.java)                      |    Easy    |    100%     |         Bit         |
+| 232 |                   [Implement Queue using Stacks](src/MyQueue.java)                   |    Easy    |    100%     |  Stack, Queue, 摊还   |
 | 242 |                        [Valid Anagram](src/ValidAnagram.java)                        |    Easy    |    100%     |       HaspMap       |
 | 283 |                           [Move Zeros](src/MoveZeros.java)                           |    Easy    |    100%     |        双指针?         |
 | 344 |                       [Reverse String](src/ReverseString.java)                       |    Easy    |    100%     |         双指针         |
@@ -78,7 +81,7 @@
 | 876 |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 | 977 |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 | 994 |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 54
+##### Total: 55
 
 
 ## Arrays
@@ -190,6 +193,12 @@
 | 203 |      [Remove Linked List Elements](src/RemoveLinkedListNodes.java)      |    Easy    |    100%     |     递归     |
 | 206 |            [Reverse Linked List](src/ReverseLinkedList.java)            |    Easy    |    100%     |     递归     |
 | 876 |          [Middle of the Linked List](src/MiddleLinkList.java)           |    Easy    |    100%     |    双指针     |
+
+
+## Queue
+| ID  |                     Problem                      | Difficulty | Beat (Time) |       Note       |
+|:---:|:------------------------------------------------:|:----------:|:-----------:|:----------------:|
+| 232 | [Implement Queue using Stacks](src/MyQueue.java) |    Easy    |    100%     | Stack, Queue, 摊还 |
 
 
 ## Segment Tree
