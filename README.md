@@ -27,6 +27,7 @@
 |  1  |                              [Two Sum](src/TwoSum.java)                              |    Easy    |   99.38%    |       HashMap       |
 |  3  | [Longest Substring Without Repeating Characters](src/LengthOfLongestSubstring.java)  |   Medium   |    100%     |     Set? + 滑动窗口     |
 | 19  |            [Remove Nth Node From End of List](src/RemoveNthFromEnd.java)             |   Medium   |    100%     |     Stack, 双指针      |
+| 20  |                    [Valid Parentheses](src/ValidParentheses.java)                    |    Easy    |   98.84%    |        Stack        |
 | 21  |                [Merge Two Sorted Lists](src/MergeTwoSortedLists.java)                |    Easy    |    100%     |         递归          |
 | 35  |               [Search Insert Position](src/SearchInsertPosition.java)                |    Easy    |    100%     |         BS          |
 | 36  |                         [Valid Sudoku](src/ValidSudoku.java)                         |   Medium   |   99.68%    |        Array        |
@@ -77,7 +78,7 @@
 | 876 |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 | 977 |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 | 994 |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 53
+##### Total: 54
 
 
 ## Arrays
@@ -209,6 +210,12 @@
 |:---:|:-----------------------------------------------------------------------------------:|:----------:|:-----------:|:-----------:|
 |  3  | [Longest Substring Without Repeating Characters](src/LengthOfLongestSubstring.java) |   Medium   |    100%     | Set? + 滑动窗口 |
 | 567 |                [Permutation in String](src/PermutationInString.java)                |   Medium   |    100%     |  滑动窗口，双指针   |
+
+
+## Stack
+| ID  |                    Problem                     | Difficulty | Beat (Time) | Note  |
+|:---:|:----------------------------------------------:|:----------:|:-----------:|:-----:|
+| 20  | [Valid Parentheses](src/ValidParentheses.java) |    Easy    |   98.84%    | Stack |
 
 
 ## String
