@@ -41,6 +41,7 @@
 | 77  |                        [Combinations](src/Combinations.java)                         |   Medium   |   99.99%    |       回溯, 字典序       |
 | 83  |       [Remove Duplicates from Sorted List](src/RemoveDupsFromSortedList.java)        |    Easy    |    100%     |         遍历          |
 | 88  |                   [Merge Sorted Array](src/MergeSortedArray.java)                    |    Easy    |    100%     |         双指针         |
+| 94  |             [Binary Tree Inorder Traversal](src/BinaryTreeInorder.java)              |    Easy    |    100%     |        中序遍历         |
 | 116 |     [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java)     |   Medium   |    100%     |        层序遍历         |
 | 118 |                     [Pascal's Triangle](src/PascalTriangle.java)                     |    Easy    |    100%     |         DP          |
 | 120 |                            [Triangle](src/Triangle.java)                             |   Medium   |   96.09%    |         DP          |
@@ -81,7 +82,7 @@
 | 876 |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 | 977 |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 | 994 |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 55
+##### Total: 56
 
 
 ## Arrays
@@ -132,6 +133,7 @@
 ## Binary Tree
 | ID  |                                   Problem                                    | Difficulty | Beat (Time) |   Note   |
 |:---:|:----------------------------------------------------------------------------:|:----------:|:-----------:|:--------:|
+| 94  |         [Binary Tree Inorder Traversal](src/BinaryTreeInorder.java)          |    Easy    |    100%     |   中序遍历   |
 | 116 | [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java) |   Medium   |    100%     |   层序遍历   |
 | 617 |            [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)            |    Easy    |    100%     | DFS, BFS |
 
