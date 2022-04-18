@@ -48,6 +48,7 @@
 | 121 |           [Best Time to Buy and Sell Stock](src/BestTimeBuySellStock.java)           |    Easy    |    100%     |         DP          |
 | 136 |                        [Single Number](src/SingleNumber.java)                        |    Easy    |    100%     |         Bit         |
 | 141 |                    [Linked List Cycle](src/LinkedListCycle.java)                     |    Easy    |    100%     |         双指针         |
+| 144 |            [Binary Tree Preorder Traversal](src/BinaryTreePreorder.java)             |    Easy    |    100%     |        前序遍历         |
 | 167 |               [Two Sum II - Input Array is Sorted](src/TwoSumII.java)                |   Medium   |    100%     |       BS, 双指针       |
 | 189 |                         [Rotate Array](src/RotateArray.java)                         |   Medium   |    100%     |    Math, Reverse    |
 | 190 |                         [Reverse Bits](src/ReverseBits.java)                         |    Easy    |    100%     |       Bit, 分治       |
@@ -82,7 +83,7 @@
 | 876 |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 | 977 |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 | 994 |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 56
+##### Total: 57
 
 
 ## Arrays
@@ -135,6 +136,7 @@
 |:---:|:----------------------------------------------------------------------------:|:----------:|:-----------:|:--------:|
 | 94  |         [Binary Tree Inorder Traversal](src/BinaryTreeInorder.java)          |    Easy    |    100%     |   中序遍历   |
 | 116 | [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java) |   Medium   |    100%     |   层序遍历   |
+| 144 |        [Binary Tree Preorder Traversal](src/BinaryTreePreorder.java)         |    Easy    |    100%     |   前序遍历   |
 | 617 |            [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)            |    Easy    |    100%     | DFS, BFS |
 
 

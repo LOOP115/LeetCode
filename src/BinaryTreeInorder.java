@@ -25,8 +25,8 @@ public class BinaryTreeInorder {
     // 方法一的递归函数我们也可以用迭代的方式实现，两种方式是等价的，区别在于递归的时候隐式地维护了一个栈，
     // 而我们在迭代的时候需要显式地将这个栈模拟出来，其他都相同
     public List<Integer> inorderTraversal2(TreeNode root) {
-        List<Integer> res = new ArrayList<Integer>();
-        Deque<TreeNode> stk = new LinkedList<TreeNode>();
+        List<Integer> res = new ArrayList<>();
+        Deque<TreeNode> stk = new LinkedList<>();
         while (root != null || !stk.isEmpty()) {
             while (root != null) {
                 stk.push(root);
