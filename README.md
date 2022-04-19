@@ -71,7 +71,7 @@
 | 344 |                       [Reverse String](src/ReverseString.java)                       |    Easy    |    100%     |         双指针         |
 | 349 |              [Intersection of Two Arrays](src/IntersectTwoArrays.java)               |    Easy    |   93.84%    |   Set, Sort + 双指针   |
 | 350 |            [Intersection of Two Arrays II](src/IntersectTwoArraysII.java)            |    Easy    |   89.79%    | HashMap, Sort + 双指针 |
-| 367 |                 [Valid Perfect Square](src/ValidPerfectSquare.java)                  |    Easy    |    100%     |        类似 69        |
+| 367 |                 [Valid Perfect Square](src/ValidPerfectSquare.java)                  |    Easy    |    100%     |   Math, 牛顿迭代, BS    |
 | 374 |                  [Guess Number Higher or Lower](src/GuessNum.java)                   |    Easy    |    100%     |         BS          |
 | 383 |                          [Ransom Note](src/RansomNote.java)                          |    Easy    |   99.95%    |       HashMap       |
 | 387 |            [First Unique Character in a String](src/FirstUniqueChar.java)            |    Easy    |   91.77%    |       HashMap       |
@@ -130,7 +130,7 @@
 | 167 |               [Two Sum II - Input Array is Sorted](src/TwoSumII.java)                |   Medium   |    100%     |    BS, 双指针     |
 | 217 |                   [Contains Duplicate](src/ContainsDuplicate.java)                   |    Easy    |   99.08%    |      Set       |
 | 278 |                    [First Bad Version](src/FirstBadVersion.java)                     |    Easy    |   99.95%    |       BS       |
-| 367 |                 [Valid Perfect Square](src/ValidPerfectSquare.java)                  |    Easy    |    100%     |     类似 69      |
+| 367 |                 [Valid Perfect Square](src/ValidPerfectSquare.java)                  |    Easy    |    100%     | Math, 牛顿迭代, BS |
 | 374 |                  [Guess Number Higher or Lower](src/GuessNum.java)                   |    Easy    |    100%     |       BS       |
 | 441 |                       [Arranging Coins](src/ArrangeCoins.java)                       |    Easy    |   97.93%    |    Math, BS    |
 | 704 |                        [Binary Search](src/BinarySearch.java)                        |    Easy    |    100%     |       BS       |
