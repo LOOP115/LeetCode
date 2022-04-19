@@ -36,7 +36,7 @@ public class BinaryTreePostorder {
             if (root.right == null || root.right == prev) {
                 res.add(root.val);
                 prev = root;
-                root =null;
+                root = null;
             } else {
                 stk.push(root);
                 root = root.right;
