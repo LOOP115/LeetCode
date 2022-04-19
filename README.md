@@ -42,6 +42,7 @@
 | 83  |       [Remove Duplicates from Sorted List](src/RemoveDupsFromSortedList.java)        |    Easy    |    100%     |         遍历          |
 | 88  |                   [Merge Sorted Array](src/MergeSortedArray.java)                    |    Easy    |    100%     |         双指针         |
 | 94  |             [Binary Tree Inorder Traversal](src/BinaryTreeInorder.java)              |    Easy    |    100%     |        中序遍历         |
+| 101 |                       [Symmetric Tree](src/SymmetricTree.java)                       |    Easy    |    100%     |        递归，迭代        |
 | 102 |          [Binary Tree Level Order Traversal](src/BinaryTreeLevelOrder.java)          |   Medium   |    100%     |        层序遍历         |
 | 104 |            [Maximum Depth of Binary Tree](src/MaxDepthOfBinaryTree.java)             |    Easy    |    100%     |         DFS         |
 | 116 |     [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java)     |   Medium   |    100%     |        层序遍历         |
@@ -86,7 +87,7 @@
 | 876 |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 | 977 |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 | 994 |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 60
+##### Total: 61
 
 
 ## Arrays
@@ -138,6 +139,7 @@
 | ID  |                                   Problem                                    | Difficulty | Beat (Time) |   Note   |
 |:---:|:----------------------------------------------------------------------------:|:----------:|:-----------:|:--------:|
 | 94  |         [Binary Tree Inorder Traversal](src/BinaryTreeInorder.java)          |    Easy    |    100%     |   中序遍历   |
+| 101 |                   [Symmetric Tree](src/SymmetricTree.java)                   |    Easy    |    100%     |  递归，迭代   |
 | 102 |      [Binary Tree Level Order Traversal](src/BinaryTreeLevelOrder.java)      |   Medium   |    100%     |   层序遍历   |
 | 104 |        [Maximum Depth of Binary Tree](src/MaxDepthOfBinaryTree.java)         |    Easy    |    100%     |   DFS    |
 | 116 | [Populating Next Right Pointers in Each Node](src/PopNextRightPointers.java) |   Medium   |    100%     |   层序遍历   |
