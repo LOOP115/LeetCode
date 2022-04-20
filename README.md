@@ -82,6 +82,7 @@
 | 567 |                [Permutation in String](src/PermutationInString.java)                 |   Medium   |    100%     |      滑动窗口, 双指针      |
 | 617 |                [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)                |    Easy    |    100%     |      DFS, BFS       |
 | 695 |                    [Max Area of Island](src/MaxAreaOfIsland.java)                    |   Medium   |    100%     |      DFS, BFS       |
+| 700 |                 [Search in a Binary Search Tree](src/SearchBST.java)                 |    Easy    |    100%     |       递归, 迭代        |
 | 704 |                        [Binary Search](src/BinarySearch.java)                        |    Easy    |    100%     |         BS          |
 | 733 |                           [Flood Fill](src/FloodFill.java)                           |    Easy    |    100%     |      DFS, BFS       |
 | 744 | [Find Smallest Letter Greater Than Target](src/SmallestLetterGreaterThanTarget.java) |    Easy    |    100%     |         BS          |
@@ -89,7 +90,7 @@
 | 876 |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 | 977 |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 | 994 |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 63
+##### Total: 64
 
 
 ## Arrays
@@ -150,6 +151,7 @@
 | 145 |       [Binary Tree Postorder Traversal](src/BinaryTreePostorder.java)        |    Easy    |    100%     |   后序遍历   |
 | 226 |               [Invert Binary Tree](src/ContainsDuplicate.java)               |    Easy    |    100%     |  递归, 迭代  |
 | 617 |            [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)            |    Easy    |    100%     | DFS, BFS |
+| 700 |             [Search in a Binary Search Tree](src/SearchBST.java)             |    Easy    |    100%     |  递归, 迭代  |
 
 
 ## Bit Manipulation
