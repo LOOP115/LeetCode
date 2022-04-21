@@ -66,6 +66,7 @@
 | 226 |                   [Invert Binary Tree](src/InvertBinaryTree.java)                    |    Easy    |    100%     |       递归, 迭代        |
 | 231 |                         [Power of Two](src/PowerOfTwo.java)                          |    Easy    |    100%     |         Bit         |
 | 232 |                   [Implement Queue using Stacks](src/MyQueue.java)                   |    Easy    |    100%     |  Stack, Queue, 摊还   |
+| 235 |         [Lowest Common Ancestor of a Binary Search Tree](src/LCAOfBST.java)          |    Easy    |    100%     |         递归          |
 | 242 |                        [Valid Anagram](src/ValidAnagram.java)                        |    Easy    |    100%     |       HaspMap       |
 | 278 |                    [First Bad Version](src/FirstBadVersion.java)                     |    Easy    |   99.95%    |         BS          |
 | 283 |                           [Move Zeros](src/MoveZeros.java)                           |    Easy    |    100%     |        双指针?         |
@@ -93,7 +94,7 @@
 | 876 |                 [Middle of the Linked List](src/MiddleLinkList.java)                 |    Easy    |    100%     |         双指针         |
 | 977 |               [Squares of a Sorted Array](src/SquaresSortedArray.java)               |    Easy    |    100%     |         双指针         |
 | 994 |                      [Rotting Oranges](src/RottingOranges.java)                      |   Medium   |    100%     |         BFS         |
-##### Total: 67
+##### Total: 68
 
 
 ## Arrays
@@ -154,6 +155,7 @@
 | 144 |        [Binary Tree Preorder Traversal](src/BinaryTreePreorder.java)         |    Easy    |    100%     |   前序遍历    |
 | 145 |       [Binary Tree Postorder Traversal](src/BinaryTreePostorder.java)        |    Easy    |    100%     |   后序遍历    |
 | 226 |               [Invert Binary Tree](src/ContainsDuplicate.java)               |    Easy    |    100%     |  递归, 迭代   |
+| 235 |     [Lowest Common Ancestor of a Binary Search Tree](src/LCAOfBST.java)      |    Easy    |    100%     |    递归     |
 | 617 |            [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)            |    Easy    |    100%     | DFS, BFS  |
 | 653 |               [Two Sum IV - Input is a BST](src/TwoSumIV.java)               |    Easy    |    100%     | 中序遍历, 双指针 |
 | 700 |             [Search in a Binary Search Tree](src/SearchBST.java)             |    Easy    |    100%     |  递归, 迭代   |
