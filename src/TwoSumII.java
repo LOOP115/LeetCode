@@ -70,8 +70,7 @@ public class TwoSumII {
             } else if (numbers[tail] + numbers[mid] < target) {
                 // Abandon left portion
                 head= mid + 1;
-            }
-            else if (numbers[head] + numbers[tail] > target) {
+            } else if (numbers[head] + numbers[tail] > target) {
                 // Head + Tail > target, move tail pointer left
                 tail--;
             } else if (numbers[head] + numbers[tail] < target){
