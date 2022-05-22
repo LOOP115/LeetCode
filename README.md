@@ -97,30 +97,32 @@
 | 977  |                [Squares of a Sorted Array](src/SquaresSortedArray.java)                 |    Easy    |    100%     |         双指针         |
 | 994  |                       [Rotting Oranges](src/RottingOranges.java)                        |   Medium   |    100%     |         BFS         |
 | 1385 |         [Find the Distance Value Between Two Arrays](src/FindTheDistValue.java)         |    Easy    |   91.78%    |         BS          |
-##### Total: 71
+| 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
+##### Total: 72
 
 
 ## Arrays
-| ID  |                               Problem                               | Difficulty | Beat (Time) |        Note         |
-|:---:|:-------------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
-|  1  |                     [Two Sum](src/TwoSum.java)                      |    Easy    |   99.38%    |       HashMap       |
-| 36  |                [Valid Sudoku](src/ValidSudoku.java)                 |   Medium   |   99.68%    |        Array        |
-| 46  |                [Permutations](src/Permutations.java)                |   Medium   |    100%     |         回溯          |
-| 53  |              [Maximum Subarray](src/MaxSubarray.java)               |    Easy    |    100%     |     贪心, DP, 线段树     |
-| 73  |            [Set Matrix Zeroes](src/SetMatrixZeroes.java)            |   Medium   |    100%     |        Array        |
-| 77  |                [Combinations](src/Combinations.java)                |   Medium   |   99.99%    |       回溯, 字典序       |
-| 88  |           [Merge Sorted Array](src/MergeSortedArray.java)           |    Easy    |    100%     |         双指针         |
-| 121 |  [Best Time to Buy and Sell Stock](src/BestTimeBuySellStock.java)   |    Easy    |    100%     |         DP          |
-| 167 |       [Two Sum II - Input Array is Sorted](src/TwoSumII.java)       |   Medium   |    100%     |       BS, 双指针       |
-| 189 |                [Rotate Array](src/RotateArray.java)                 |   Medium   |    100%     |    Math, Reverse    |
-| 283 |                  [Move Zeros](src/MoveZeros.java)                   |    Easy    |    100%     |        双指针?         |
-| 344 |              [Reverse String](src/ReverseString.java)               |    Easy    |    100%     |         双指针         |
-| 349 |      [Intersection of Two Arrays](src/IntersectTwoArrays.java)      |    Easy    |   93.84%    |   Set, Sort + 双指针   |
-| 350 |   [Intersection of Two Arrays II](src/IntersectTwoArraysII.java)    |    Easy    |   89.79%    | HashMap, Sort + 双指针 |
-| 557 |  [Reverse Words in a String III](src/ReverseWordsInStringIII.java)  |    Easy    |    100%     |         双指针         |
-| 566 |            [Reshape the Matrix](src/ReshapeMatrix.java)             |    Easy    |    100%     |  Flatten 2D Array   |
-| 852 | [Peak Index in a Mountain Array](src/PeakIndexInMountainArray.java) |    Easy    |    100%     |         BS          |
-| 977 |      [Squares of a Sorted Array](src/SquaresSortedArray.java)       |    Easy    |    100%     |         双指针         |
+|  ID  |                               Problem                               | Difficulty | Beat (Time) |        Note         |
+|:----:|:-------------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
+|  1   |                     [Two Sum](src/TwoSum.java)                      |    Easy    |   99.38%    |       HashMap       |
+|  36  |                [Valid Sudoku](src/ValidSudoku.java)                 |   Medium   |   99.68%    |        Array        |
+|  46  |                [Permutations](src/Permutations.java)                |   Medium   |    100%     |         回溯          |
+|  53  |              [Maximum Subarray](src/MaxSubarray.java)               |    Easy    |    100%     |     贪心, DP, 线段树     |
+|  73  |            [Set Matrix Zeroes](src/SetMatrixZeroes.java)            |   Medium   |    100%     |        Array        |
+|  77  |                [Combinations](src/Combinations.java)                |   Medium   |   99.99%    |       回溯, 字典序       |
+|  88  |           [Merge Sorted Array](src/MergeSortedArray.java)           |    Easy    |    100%     |         双指针         |
+| 121  |  [Best Time to Buy and Sell Stock](src/BestTimeBuySellStock.java)   |    Easy    |    100%     |         DP          |
+| 167  |       [Two Sum II - Input Array is Sorted](src/TwoSumII.java)       |   Medium   |    100%     |       BS, 双指针       |
+| 189  |                [Rotate Array](src/RotateArray.java)                 |   Medium   |    100%     |    Math, Reverse    |
+| 283  |                  [Move Zeros](src/MoveZeros.java)                   |    Easy    |    100%     |        双指针?         |
+| 344  |              [Reverse String](src/ReverseString.java)               |    Easy    |    100%     |         双指针         |
+| 349  |      [Intersection of Two Arrays](src/IntersectTwoArrays.java)      |    Easy    |   93.84%    |   Set, Sort + 双指针   |
+| 350  |   [Intersection of Two Arrays II](src/IntersectTwoArraysII.java)    |    Easy    |   89.79%    | HashMap, Sort + 双指针 |
+| 557  |  [Reverse Words in a String III](src/ReverseWordsInStringIII.java)  |    Easy    |    100%     |         双指针         |
+| 566  |            [Reshape the Matrix](src/ReshapeMatrix.java)             |    Easy    |    100%     |  Flatten 2D Array   |
+| 852  | [Peak Index in a Mountain Array](src/PeakIndexInMountainArray.java) |    Easy    |    100%     |         BS          |
+| 977  |      [Squares of a Sorted Array](src/SquaresSortedArray.java)       |    Easy    |    100%     |         双指针         |
+| 1539 |     [Kth Missing Positive Number](src/KthMissingPositive.java)      |    Easy    |    100%     |         BS          |
 
 
 ## Backtracking
@@ -147,6 +149,7 @@
 | 744  |  [Find Smallest Letter Greater Than Target](src/SmallestLetterGreaterThanTarget.java)   |    Easy    |    100%     |       BS       |
 | 852  |           [Peak Index in a Mountain Array](src/PeakIndexInMountainArray.java)           |    Easy    |    100%     |       BS       |
 | 1385 |         [Find the Distance Value Between Two Arrays](src/FindTheDistValue.java)         |    Easy    |   91.78%    |       BS       |
+| 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |       BS       |
 
 
 ## Binary Tree
