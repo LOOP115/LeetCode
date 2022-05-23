@@ -98,7 +98,8 @@
 | 994  |                       [Rotting Oranges](src/RottingOranges.java)                        |   Medium   |    100%     |         BFS         |
 | 1385 |         [Find the Distance Value Between Two Arrays](src/FindTheDistValue.java)         |    Easy    |   91.78%    |         BS          |
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
-##### Total: 72
+| 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
+##### Total: 73
 
 
 ## Arrays
@@ -150,6 +151,7 @@
 | 852  |           [Peak Index in a Mountain Array](src/PeakIndexInMountainArray.java)           |    Easy    |    100%     |       BS       |
 | 1385 |         [Find the Distance Value Between Two Arrays](src/FindTheDistValue.java)         |    Easy    |   91.78%    |       BS       |
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |       BS       |
+| 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |       BS       |
 
 
 ## Binary Tree
