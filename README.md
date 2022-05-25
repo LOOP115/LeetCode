@@ -39,6 +39,7 @@
 |  69  |                                [Sqrt(x)](src/Sqrt.java)                                 |    Easy    |    100%     |   Math, 牛顿迭代, BS    |
 |  70  |                       [Climbing Stairs](src/ClimbingStairs.java)                        |    Easy    |    100%     |   DP, Math, Memo    |
 |  73  |                      [Set Matrix Zeroes](src/SetMatrixZeroes.java)                      |   Medium   |    100%     |        Array        |
+|  74  |                      [Search a 2D Matrix](src/Search2DMatrix.java)                      |   Medium   |    100%     |         BS          |
 |  77  |                          [Combinations](src/Combinations.java)                          |   Medium   |   99.99%    |       回溯, 字典序       |
 |  83  |         [Remove Duplicates from Sorted List](src/RemoveDupsFromSortedList.java)         |    Easy    |    100%     |         遍历          |
 |  88  |                     [Merge Sorted Array](src/MergeSortedArray.java)                     |    Easy    |    100%     |         双指针         |
@@ -100,7 +101,7 @@
 | 1385 |         [Find the Distance Value Between Two Arrays](src/FindTheDistValue.java)         |    Easy    |   91.78%    |         BS          |
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
-##### Total: 74
+##### Total: 75
 
 
 ## Arrays
@@ -143,6 +144,7 @@
 |  34  | [Find First and Last Position of Element in Sorted Array](src/FirstLastPosInArray.java) |   Medium   |    100%     |       BS       |
 |  35  |                 [Search Insert Position](src/SearchInsertPosition.java)                 |    Easy    |    100%     |       BS       |
 |  69  |                                [Sqrt(x)](src/Sqrt.java)                                 |    Easy    |    100%     | Math, 牛顿迭代, BS |
+|  74  |                      [Search a 2D Matrix](src/Search2DMatrix.java)                      |   Medium   |    100%     |       BS       |
 | 167  |                 [Two Sum II - Input Array is Sorted](src/TwoSumII.java)                 |   Medium   |    100%     |    BS, 双指针     |
 | 217  |                    [Contains Duplicate](src/ContainsDuplicate.java)                     |    Easy    |   99.08%    |      Set       |
 | 278  |                      [First Bad Version](src/FirstBadVersion.java)                      |    Easy    |   99.95%    |       BS       |
