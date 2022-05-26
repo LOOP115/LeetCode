@@ -99,11 +99,12 @@
 | 977  |                [Squares of a Sorted Array](src/SquaresSortedArray.java)                 |    Easy    |    100%     |         双指针         |
 | 994  |                       [Rotting Oranges](src/RottingOranges.java)                        |   Medium   |    100%     |         BFS         |
 | 1337 |                 [The K Weakest Rows in a Matrix](src/KWeakestRows.java)                 |    Easy    |   99.29%    |      BS + Heap      |
+| 1346 |               [Check If N and Its Double Exist](src/CheckNandDouble.java)               |    Easy    |   99.07%    |       BS, Set       |
 | 1351 |          [Count Negative Numbers in a Sorted Matrix](src/CountNegatives.java)           |    Easy    |    100%     |       BS, 矩阵        |
 | 1385 |         [Find the Distance Value Between Two Arrays](src/FindTheDistValue.java)         |    Easy    |   91.78%    |         BS          |
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
-##### Total: 76
+##### Total: 77
 
 
 ## Arrays
@@ -157,6 +158,7 @@
 | 744  |  [Find Smallest Letter Greater Than Target](src/SmallestLetterGreaterThanTarget.java)   |    Easy    |    100%     |       BS       |
 | 852  |           [Peak Index in a Mountain Array](src/PeakIndexInMountainArray.java)           |    Easy    |    100%     |       BS       |
 | 1337 |                 [The K Weakest Rows in a Matrix](src/KWeakestRows.java)                 |    Easy    |   99.29%    |   BS + Heap    |
+| 1346 |               [Check If N and Its Double Exist](src/CheckNandDouble.java)               |    Easy    |   99.07%    |    BS, Set     |
 | 1351 |          [Count Negative Numbers in a Sorted Matrix](src/CountNegatives.java)           |    Easy    |    100%     |     BS, 矩阵     |
 | 1385 |         [Find the Distance Value Between Two Arrays](src/FindTheDistValue.java)         |    Easy    |   91.78%    |       BS       |
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |       BS       |
@@ -263,10 +265,11 @@
 
 
 ## Set
-| ID  |                          Problem                          | Difficulty | Beat (Time) |      Note       |
-|:---:|:---------------------------------------------------------:|:----------:|:-----------:|:---------------:|
-| 217 |     [Contains Duplicate](src/ContainsDuplicate.java)      |    Easy    |   99.08%    |       Set       |
-| 349 | [Intersection of Two Arrays](src/IntersectTwoArrays.java) |    Easy    |   93.84%    | Set, Sort + 双指针 |
+|  ID  |                           Problem                           | Difficulty | Beat (Time) |      Note       |
+|:----:|:-----------------------------------------------------------:|:----------:|:-----------:|:---------------:|
+| 217  |      [Contains Duplicate](src/ContainsDuplicate.java)       |    Easy    |   99.08%    |       Set       |
+| 349  |  [Intersection of Two Arrays](src/IntersectTwoArrays.java)  |    Easy    |   93.84%    | Set, Sort + 双指针 |
+| 1346 | [Check If N and Its Double Exist](src/CheckNandDouble.java) |    Easy    |   99.07%    |     BS, Set     |
 
 
 ## Sliding Window
