@@ -15,6 +15,7 @@
 * [Arrays](#arrays)
 * [Binary Tree](#binary-tree)
 * [Hash Map](#hash-map)
+* [Heap](#heap)
 * [Linked List](#linked-list)
 * [Queue](#queue)
 * [Segment Tree](#segment-tree)
@@ -97,11 +98,12 @@
 | 876  |                  [Middle of the Linked List](src/MiddleLinkList.java)                   |    Easy    |    100%     |         双指针         |
 | 977  |                [Squares of a Sorted Array](src/SquaresSortedArray.java)                 |    Easy    |    100%     |         双指针         |
 | 994  |                       [Rotting Oranges](src/RottingOranges.java)                        |   Medium   |    100%     |         BFS         |
+| 1337 |                 [The K Weakest Rows in a Matrix](src/KWeakestRows.java)                 |    Easy    |   99.29%    |      BS + Heap      |
 | 1351 |          [Count Negative Numbers in a Sorted Matrix](src/CountNegatives.java)           |    Easy    |    100%     |       BS, 矩阵        |
 | 1385 |         [Find the Distance Value Between Two Arrays](src/FindTheDistValue.java)         |    Easy    |   91.78%    |         BS          |
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
-##### Total: 75
+##### Total: 76
 
 
 ## Arrays
@@ -154,6 +156,7 @@
 | 704  |                         [Binary Search](src/BinarySearch.java)                          |    Easy    |    100%     |       BS       |
 | 744  |  [Find Smallest Letter Greater Than Target](src/SmallestLetterGreaterThanTarget.java)   |    Easy    |    100%     |       BS       |
 | 852  |           [Peak Index in a Mountain Array](src/PeakIndexInMountainArray.java)           |    Easy    |    100%     |       BS       |
+| 1337 |                 [The K Weakest Rows in a Matrix](src/KWeakestRows.java)                 |    Easy    |   99.29%    |   BS + Heap    |
 | 1351 |          [Count Negative Numbers in a Sorted Matrix](src/CountNegatives.java)           |    Easy    |    100%     |     BS, 矩阵     |
 | 1385 |         [Find the Distance Value Between Two Arrays](src/FindTheDistValue.java)         |    Easy    |   91.78%    |       BS       |
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |       BS       |
@@ -227,6 +230,12 @@
 | 350 | [Intersection of Two Arrays II](src/IntersectTwoArraysII.java) |    Easy    |   89.79%    | HashMap, Sort + 双指针 |
 | 383 |               [Ransom Note](src/RansomNote.java)               |    Easy    |   99.95%    |       HashMap       |
 | 387 | [First Unique Character in a String](src/FirstUniqueChar.java) |    Easy    |   91.77%    |       HashMap       |
+
+
+## Heap
+|  ID  |                         Problem                         | Difficulty | Beat (Time) |   Note    |
+|:----:|:-------------------------------------------------------:|:----------:|:-----------:|:---------:|
+| 1337 | [The K Weakest Rows in a Matrix](src/KWeakestRows.java) |    Easy    |   99.29%    | BS + Heap |
 
 
 ## Linked List
