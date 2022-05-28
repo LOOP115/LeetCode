@@ -105,7 +105,8 @@
 | 1385 |         [Find the Distance Value Between Two Arrays](src/FindTheDistValue.java)         |    Easy    |   91.78%    |         BS          |
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
-##### Total: 78
+| 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
+##### Total: 79
 
 
 ## Arrays
@@ -164,6 +165,7 @@
 | 1385 |         [Find the Distance Value Between Two Arrays](src/FindTheDistValue.java)         |    Easy    |   91.78%    |       BS       |
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |       BS       |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |       BS       |
+| 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |    双指针, BS     |
 
 
 ## Binary Tree
@@ -294,19 +296,20 @@
 
 
 ## Two Pointers
-| ID  |                              Problem                              | Difficulty | Beat (Time) |        Note         |
-|:---:|:-----------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
-| 19  |   [Remove Nth Node From End of List](src/RemoveNthFromEnd.java)   |   Medium   |    100%     |     Stack, 双指针      |
-| 88  |          [Merge Sorted Array](src/MergeSortedArray.java)          |    Easy    |    100%     |         双指针         |
-| 141 |           [Linked List Cycle](src/LinkedListCycle.java)           |    Easy    |    100%     |         双指针         |
-| 167 |      [Two Sum II - Input Array is Sorted](src/TwoSumII.java)      |   Medium   |    100%     |       BS, 双指针       |
-| 283 |                 [Move Zeros](src/MoveZeros.java)                  |    Easy    |    100%     |        双指针?         |
-| 344 |             [Reverse String](src/ReverseString.java)              |    Easy    |    100%     |         双指针         |
-| 349 |     [Intersection of Two Arrays](src/IntersectTwoArrays.java)     |    Easy    |   93.84%    |   Set, Sort + 双指针   |
-| 350 |  [Intersection of Two Arrays II](src/IntersectTwoArraysII.java)   |    Easy    |   89.79%    | HashMap, Sort + 双指针 |
-| 557 | [Reverse Words in a String III](src/ReverseWordsInStringIII.java) |    Easy    |    100%     |         双指针         |
-| 633 |       [Sum of Square Numbers](src/SumOfSquareNumbers.java)        |   Medium   |    100%     |      双指针, Math      |
-| 653 |         [Two Sum IV - Input is a BST](src/TwoSumIV.java)          |    Easy    |    100%     |      中序遍历, 双指针      |
-| 876 |       [Middle of the Linked List](src/MiddleLinkList.java)        |    Easy    |    100%     |         双指针         |
-| 977 |     [Squares of a Sorted Array](src/SquaresSortedArray.java)      |    Easy    |    100%     |         双指针         |
+|  ID  |                                    Problem                                    | Difficulty | Beat (Time) |        Note         |
+|:----:|:-----------------------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
+|  19  |         [Remove Nth Node From End of List](src/RemoveNthFromEnd.java)         |   Medium   |    100%     |     Stack, 双指针      |
+|  88  |                [Merge Sorted Array](src/MergeSortedArray.java)                |    Easy    |    100%     |         双指针         |
+| 141  |                 [Linked List Cycle](src/LinkedListCycle.java)                 |    Easy    |    100%     |         双指针         |
+| 167  |            [Two Sum II - Input Array is Sorted](src/TwoSumII.java)            |   Medium   |    100%     |       BS, 双指针       |
+| 283  |                       [Move Zeros](src/MoveZeros.java)                        |    Easy    |    100%     |        双指针?         |
+| 344  |                   [Reverse String](src/ReverseString.java)                    |    Easy    |    100%     |         双指针         |
+| 349  |           [Intersection of Two Arrays](src/IntersectTwoArrays.java)           |    Easy    |   93.84%    |   Set, Sort + 双指针   |
+| 350  |        [Intersection of Two Arrays II](src/IntersectTwoArraysII.java)         |    Easy    |   89.79%    | HashMap, Sort + 双指针 |
+| 557  |       [Reverse Words in a String III](src/ReverseWordsInStringIII.java)       |    Easy    |    100%     |         双指针         |
+| 633  |             [Sum of Square Numbers](src/SumOfSquareNumbers.java)              |   Medium   |    100%     |      双指针, Math      |
+| 653  |               [Two Sum IV - Input is a BST](src/TwoSumIV.java)                |    Easy    |    100%     |      中序遍历, 双指针      |
+| 876  |             [Middle of the Linked List](src/MiddleLinkList.java)              |    Easy    |    100%     |         双指针         |
+| 977  |           [Squares of a Sorted Array](src/SquaresSortedArray.java)            |    Easy    |    100%     |         双指针         |
+| 1855 | [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java) |   Medium   |   95.10%    |       双指针, BS       |
 
