@@ -59,6 +59,7 @@
 | 141  |                      [Linked List Cycle](src/LinkedListCycle.java)                      |    Easy    |    100%     |         双指针         |
 | 144  |              [Binary Tree Preorder Traversal](src/BinaryTreePreorder.java)              |    Easy    |    100%     |        前序遍历         |
 | 145  |             [Binary Tree Postorder Traversal](src/BinaryTreePostorder.java)             |    Easy    |    100%     |        后序遍历         |
+| 153  |         [Find Minimum in Rotated Sorted Array](src/FindMinInRotatedArray.java)          |   Medium   |    100%     |         BS          |
 | 167  |                 [Two Sum II - Input Array is Sorted](src/TwoSumII.java)                 |   Medium   |    100%     |       BS, 双指针       |
 | 189  |                          [Rotate Array](src/RotateArray.java)                           |   Medium   |    100%     |    Math, Reverse    |
 | 190  |                          [Reverse Bits](src/ReverseBits.java)                           |    Easy    |    100%     |       Bit, 分治       |
@@ -107,7 +108,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 80
+##### Total: 81
 
 
 ## Arrays
@@ -152,6 +153,7 @@
 |  35  |                 [Search Insert Position](src/SearchInsertPosition.java)                 |    Easy    |    100%     |       BS       |
 |  69  |                                [Sqrt(x)](src/Sqrt.java)                                 |    Easy    |    100%     | Math, 牛顿迭代, BS |
 |  74  |                      [Search a 2D Matrix](src/Search2DMatrix.java)                      |   Medium   |    100%     |       BS       |
+| 153  |         [Find Minimum in Rotated Sorted Array](src/FindMinInRotatedArray.java)          |   Medium   |    100%     |       BS       |
 | 167  |                 [Two Sum II - Input Array is Sorted](src/TwoSumII.java)                 |   Medium   |    100%     |    BS, 双指针     |
 | 217  |                    [Contains Duplicate](src/ContainsDuplicate.java)                     |    Easy    |   99.08%    |      Set       |
 | 278  |                      [First Bad Version](src/FirstBadVersion.java)                      |    Easy    |   99.95%    |       BS       |
