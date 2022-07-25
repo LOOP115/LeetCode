@@ -29,6 +29,7 @@
 |:----:|:---------------------------------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
 |  1   |                               [Two Sum](src/TwoSum.java)                                |    Easy    |   99.38%    |       HashMap       |
 |  3   |   [Longest Substring Without Repeating Characters](src/LengthOfLongestSubstring.java)   |   Medium   |    100%     |     Set? + 滑动窗口     |
+|  15  |                             [Three Sum](src/ThreeSum.java)                              |   Medium   |   76.77%    |     Sort + 双指针      |
 |  19  |              [Remove Nth Node From End of List](src/RemoveNthFromEnd.java)              |   Medium   |    100%     |     Stack, 双指针      |
 |  20  |                     [Valid Parentheses](src/ValidParentheses.java)                      |    Easy    |   98.84%    |        Stack        |
 |  21  |                 [Merge Two Sorted Lists](src/MergeTwoSortedLists.java)                  |    Easy    |    100%     |         递归          |
@@ -110,13 +111,14 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 83
+##### Total: 84
 
 
 ## Arrays
 |  ID  |                                 Problem                                 | Difficulty | Beat (Time) |        Note         |
 |:----:|:-----------------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
 |  1   |                       [Two Sum](src/TwoSum.java)                        |    Easy    |   99.38%    |       HashMap       |
+|  15  |                     [Three Sum](src/ThreeSum.java)                      |   Medium   |   76.77%    |     Sort + 双指针      |
 |  36  |                  [Valid Sudoku](src/ValidSudoku.java)                   |   Medium   |   99.68%    |        Array        |
 |  46  |                  [Permutations](src/Permutations.java)                  |   Medium   |    100%     |         回溯          |
 |  53  |                [Maximum Subarray](src/MaxSubarray.java)                 |    Easy    |    100%     |     贪心, DP, 线段树     |
@@ -306,6 +308,7 @@
 ## Two Pointers
 |  ID  |                                    Problem                                    | Difficulty | Beat (Time) |        Note         |
 |:----:|:-----------------------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
+|  15  |                        [Three Sum](src/ThreeSum.java)                         |   Medium   |   76.77%    |     Sort + 双指针      |
 |  19  |         [Remove Nth Node From End of List](src/RemoveNthFromEnd.java)         |   Medium   |    100%     |     Stack, 双指针      |
 |  88  |                [Merge Sorted Array](src/MergeSortedArray.java)                |    Easy    |    100%     |         双指针         |
 | 141  |                 [Linked List Cycle](src/LinkedListCycle.java)                 |    Easy    |    100%     |         双指针         |
