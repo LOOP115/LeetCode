@@ -100,6 +100,7 @@
 | 733  |                            [Flood Fill](src/FloodFill.java)                             |    Easy    |    100%     |      DFS, BFS       |
 | 744  |  [Find Smallest Letter Greater Than Target](src/SmallestLetterGreaterThanTarget.java)   |    Easy    |    100%     |         BS          |
 | 784  |                [Letter Case Permutation](src/LetterCasePermutation.java)                |   Medium   |    100%     |       回溯, Bit       |
+| 844  |               [Backspace String Compare](src/BackspaceStringCompare.java)               |    Easy    |    100%     |         双指针         |
 | 852  |           [Peak Index in a Mountain Array](src/PeakIndexInMountainArray.java)           |    Easy    |    100%     |         BS          |
 | 876  |                  [Middle of the Linked List](src/MiddleLinkList.java)                   |    Easy    |    100%     |         双指针         |
 | 977  |                [Squares of a Sorted Array](src/SquaresSortedArray.java)                 |    Easy    |    100%     |         双指针         |
@@ -111,7 +112,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 84
+##### Total: 85
 
 
 ## Arrays
@@ -299,10 +300,11 @@
 
 
 ## String
-| ID  |                          Problem                          | Difficulty | Beat (Time) |  Note   |
-|:---:|:---------------------------------------------------------:|:----------:|:-----------:|:-------:|
-| 46  |           [Permutations](src/Permutations.java)           |   Medium   |    100%     |   回溯    |
-| 784 | [Letter Case Permutation](src/LetterCasePermutation.java) |   Medium   |    100%     | 回溯, Bit |
+| ID  |                           Problem                           | Difficulty | Beat (Time) |  Note   |
+|:---:|:-----------------------------------------------------------:|:----------:|:-----------:|:-------:|
+| 46  |            [Permutations](src/Permutations.java)            |   Medium   |    100%     |   回溯    |
+| 784 |  [Letter Case Permutation](src/LetterCasePermutation.java)  |   Medium   |    100%     | 回溯, Bit |
+| 844 | [Backspace String Compare](src/BackspaceStringCompare.java) |    Easy    |    100%     |   双指针   |
 
 
 ## Two Pointers
@@ -320,6 +322,7 @@
 | 557  |       [Reverse Words in a String III](src/ReverseWordsInStringIII.java)       |    Easy    |    100%     |         双指针         |
 | 633  |             [Sum of Square Numbers](src/SumOfSquareNumbers.java)              |   Medium   |    100%     |      双指针, Math      |
 | 653  |               [Two Sum IV - Input is a BST](src/TwoSumIV.java)                |    Easy    |    100%     |      中序遍历, 双指针      |
+| 844  |          [Backspace String Compare](src/BackspaceStringCompare.java)          |    Easy    |    100%     |         双指针         |
 | 876  |             [Middle of the Linked List](src/MiddleLinkList.java)              |    Easy    |    100%     |         双指针         |
 | 977  |           [Squares of a Sorted Array](src/SquaresSortedArray.java)            |    Easy    |    100%     |         双指针         |
 | 1855 | [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java) |   Medium   |   95.10%    |       双指针, BS       |
