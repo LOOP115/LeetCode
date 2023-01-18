@@ -2,6 +2,7 @@ import java.util.ArrayList;
 
 public class IntervalListIntersections {
 
+    // Time & Space: O(m+n)
     public static int[][] intervalIntersection(int[][] firstList, int[][] secondList) {
         ArrayList<int[]> ans = new ArrayList<>();
         int i = 0;
@@ -15,7 +16,7 @@ public class IntervalListIntersections {
             if (head <= tail) {
                 ans.add(new int[]{head, tail});
             }
-            // Remove the interval will smaller tail
+            // Remove the interval will smaller tail (impossible to have intersections)
             if (firstList[i][1] < secondList[j][1]) {
                 i++;
             } else if (firstList[i][1] > secondList[j][1]) {
