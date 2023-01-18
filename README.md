@@ -71,6 +71,7 @@
 | 198  |                          [House Robber](src/HouseRobber.java)                           |   Medium   |    100%     |         DP          |
 | 203  |              [Remove Linked List Elements](src/RemoveLinkedListNodes.java)              |    Easy    |    100%     |         递归          |
 | 206  |                    [Reverse Linked List](src/ReverseLinkedList.java)                    |    Easy    |    100%     |         递归          |
+| 209  |                [Minimum Size Subarray Sum](src/MinSizeSubarraySum.java)                 |   Medium   |    100%     |        滑动窗口         |
 | 217  |                    [Contains Duplicate](src/ContainsDuplicate.java)                     |    Easy    |   99.08%    |         Set         |
 | 226  |                     [Invert Binary Tree](src/InvertBinaryTree.java)                     |    Easy    |    100%     |       递归, 迭代        |
 | 231  |                           [Power of Two](src/PowerOfTwo.java)                           |    Easy    |    100%     |         Bit         |
@@ -116,7 +117,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 89
+##### Total: 90
 
 
 ## Arrays
@@ -294,6 +295,7 @@
 | ID  |                                       Problem                                       | Difficulty | Beat (Time) |      Note       |
 |:---:|:-----------------------------------------------------------------------------------:|:----------:|:-----------:|:---------------:|
 |  3  | [Longest Substring Without Repeating Characters](src/LengthOfLongestSubstring.java) |   Medium   |    100%     |   Set? + 滑动窗口   |
+| 209 |              [Minimum Size Subarray Sum](src/MinSizeSubarraySum.java)               |   Medium   |    100%     |      滑动窗口       |
 | 567 |                [Permutation in String](src/PermutationInString.java)                |   Medium   |    100%     |    滑动窗口, 双指针    |
 | 438 |             [Find All Anagrams in a String](src/AnagramsInString.java)              |   Medium   |   88.19%    | HashTable, 滑动窗口 |
 | 713 |              [Subarray Product Less Than K](src/SubarrayProduct.java)               |   Medium   |    100%     |      滑动窗口       |
