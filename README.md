@@ -99,6 +99,7 @@
 | 700  |                  [Search in a Binary Search Tree](src/SearchBST.java)                   |    Easy    |    100%     |       递归, 迭代        |
 | 701  |               [Insert into a Binary Search Tree](src/InsertIntoBST.java)                |   Medium   |    100%     |       递归, 迭代        |
 | 704  |                         [Binary Search](src/BinarySearch.java)                          |    Easy    |    100%     |         BS          |
+| 713  |                [Subarray Product Less Than K](src/SubarrayProduct.java)                 |   Medium   |    100%     |        滑动窗口         |
 | 733  |                            [Flood Fill](src/FloodFill.java)                             |    Easy    |    100%     |      DFS, BFS       |
 | 744  |  [Find Smallest Letter Greater Than Target](src/SmallestLetterGreaterThanTarget.java)   |    Easy    |    100%     |         BS          |
 | 784  |                [Letter Case Permutation](src/LetterCasePermutation.java)                |   Medium   |    100%     |       回溯, Bit       |
@@ -115,7 +116,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 88
+##### Total: 89
 
 
 ## Arrays
@@ -293,8 +294,9 @@
 | ID  |                                       Problem                                       | Difficulty | Beat (Time) |      Note       |
 |:---:|:-----------------------------------------------------------------------------------:|:----------:|:-----------:|:---------------:|
 |  3  | [Longest Substring Without Repeating Characters](src/LengthOfLongestSubstring.java) |   Medium   |    100%     |   Set? + 滑动窗口   |
-| 567 |                [Permutation in String](src/PermutationInString.java)                |   Medium   |    100%     |    滑动窗口，双指针     |
+| 567 |                [Permutation in String](src/PermutationInString.java)                |   Medium   |    100%     |    滑动窗口, 双指针    |
 | 438 |             [Find All Anagrams in a String](src/AnagramsInString.java)              |   Medium   |   88.19%    | HashTable, 滑动窗口 |
+| 713 |              [Subarray Product Less Than K](src/SubarrayProduct.java)               |   Medium   |    100%     |      滑动窗口       |
 
 
 ## Stack
