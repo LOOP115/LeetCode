@@ -86,6 +86,7 @@
 | 374  |                    [Guess Number Higher or Lower](src/GuessNum.java)                    |    Easy    |    100%     |         BS          |
 | 383  |                           [Ransom Note](src/RansomNote.java)                            |    Easy    |   99.95%    |       HashMap       |
 | 387  |             [First Unique Character in a String](src/FirstUniqueChar.java)              |    Easy    |   91.77%    |       HashMap       |
+| 438  |               [Find All Anagrams in a String](src/AnagramsInString.java)                |   Medium   |   88.19%    |   HashTable, 滑动窗口   |
 | 441  |                        [Arranging Coins](src/ArrangeCoins.java)                         |    Easy    |   97.93%    |      Math, BS       |
 | 542  |                           [01 Matrix](src/ZeroOneMatrix.java)                           |   Medium   |   98.95%    |       DP, BFS       |
 | 557  |            [Reverse Words in a String III](src/ReverseWordsInStringIII.java)            |    Easy    |    100%     |         双指针         |
@@ -114,7 +115,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 87
+##### Total: 88
 
 
 ## Arrays
@@ -289,10 +290,11 @@
 
 
 ## Sliding Window
-| ID  |                                       Problem                                       | Difficulty | Beat (Time) |    Note     |
-|:---:|:-----------------------------------------------------------------------------------:|:----------:|:-----------:|:-----------:|
-|  3  | [Longest Substring Without Repeating Characters](src/LengthOfLongestSubstring.java) |   Medium   |    100%     | Set? + 滑动窗口 |
-| 567 |                [Permutation in String](src/PermutationInString.java)                |   Medium   |    100%     |  滑动窗口，双指针   |
+| ID  |                                       Problem                                       | Difficulty | Beat (Time) |      Note       |
+|:---:|:-----------------------------------------------------------------------------------:|:----------:|:-----------:|:---------------:|
+|  3  | [Longest Substring Without Repeating Characters](src/LengthOfLongestSubstring.java) |   Medium   |    100%     |   Set? + 滑动窗口   |
+| 567 |                [Permutation in String](src/PermutationInString.java)                |   Medium   |    100%     |    滑动窗口，双指针     |
+| 438 |             [Find All Anagrams in a String](src/AnagramsInString.java)              |   Medium   |   88.19%    | HashTable, 滑动窗口 |
 
 
 ## Stack
