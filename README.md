@@ -9,6 +9,7 @@
 * [Dynamic Programming](#dynamic-programming)
 * [Sliding Window](#sliding-window)
 * [Two Pointers](#two-pointers)
+* [Union Find](#union-find)
 
 
 > __Data Structures__
@@ -69,7 +70,7 @@
 | 190  |                          [Reverse Bits](src/ReverseBits.java)                           |    Easy    |    100%     |       Bit, 分治       |
 | 191  |                        [Number of 1 Bits](src/RotateArray.java)                         |    Easy    |    100%     |         Bit         |
 | 198  |                          [House Robber](src/HouseRobber.java)                           |   Medium   |    100%     |         DP          |
-| 200  |                      [Number of Islands](src/NumberOfIslands.java)                      |   Medium   |    100%     |         DFS         |
+| 200  |                      [Number of Islands](src/NumberOfIslands.java)                      |   Medium   |    100%     |     DFS, Union      |
 | 203  |              [Remove Linked List Elements](src/RemoveLinkedListNodes.java)              |    Easy    |    100%     |         递归          |
 | 206  |                    [Reverse Linked List](src/ReverseLinkedList.java)                    |    Easy    |    100%     |         递归          |
 | 209  |                [Minimum Size Subarray Sum](src/MinSizeSubarraySum.java)                 |   Medium   |    100%     |        滑动窗口         |
@@ -91,6 +92,7 @@
 | 438  |               [Find All Anagrams in a String](src/AnagramsInString.java)                |   Medium   |   88.19%    |   HashTable, 滑动窗口   |
 | 441  |                        [Arranging Coins](src/ArrangeCoins.java)                         |    Easy    |   97.93%    |      Math, BS       |
 | 542  |                           [01 Matrix](src/ZeroOneMatrix.java)                           |   Medium   |   98.95%    |       DP, BFS       |
+| 547  |                    [Number of Provinces](src/NumberOfProvinces.java)                    |   Medium   |    100%     |     DFS, Union      |
 | 557  |            [Reverse Words in a String III](src/ReverseWordsInStringIII.java)            |    Easy    |    100%     |         双指针         |
 | 566  |                      [Reshape the Matrix](src/ReshapeMatrix.java)                       |    Easy    |    100%     |  Flatten 2D Array   |
 | 567  |                  [Permutation in String](src/PermutationInString.java)                  |   Medium   |    100%     |      滑动窗口, 双指针      |
@@ -118,7 +120,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 91
+##### Total: 92
 
 
 ## Arrays
@@ -222,14 +224,15 @@
 
 
 ## Depth First Search
-| ID  |                            Problem                            | Difficulty | Beat (Time) |   Note   |
-|:---:|:-------------------------------------------------------------:|:----------:|:-----------:|:--------:|
-| 104 | [Maximum Depth of Binary Tree](src/MaxDepthOfBinaryTree.java) |    Easy    |    100%     |   DFS    |
-| 112 |                 [Path Sum](src/PathSum.java)                  |    Easy    |    100%     | DFS, BFS |
-| 200 |         [Number of Islands](src/NumberOfIslands.java)         |   Medium   |    100%     |   DFS    |
-| 617 |    [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)     |    Easy    |    100%     | DFS, BFS |
-| 695 |        [Max Area of Island](src/MaxAreaOfIsland.java)         |   Medium   |    100%     | DFS, BFS |
-| 733 |               [Flood Fill](src/FloodFill.java)                |    Easy    |    100%     | DFS, BFS |
+| ID  |                            Problem                            | Difficulty | Beat (Time) |    Note    |
+|:---:|:-------------------------------------------------------------:|:----------:|:-----------:|:----------:|
+| 104 | [Maximum Depth of Binary Tree](src/MaxDepthOfBinaryTree.java) |    Easy    |    100%     |    DFS     |
+| 112 |                 [Path Sum](src/PathSum.java)                  |    Easy    |    100%     |  DFS, BFS  |
+| 200 |         [Number of Islands](src/NumberOfIslands.java)         |   Medium   |    100%     | DFS, Union |
+| 547 |       [Number of Provinces](src/NumberOfProvinces.java)       |   Medium   |    100%     | DFS, Union |
+| 617 |    [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)     |    Easy    |    100%     |  DFS, BFS  |
+| 695 |        [Max Area of Island](src/MaxAreaOfIsland.java)         |   Medium   |    100%     |  DFS, BFS  |
+| 733 |               [Flood Fill](src/FloodFill.java)                |    Easy    |    100%     |  DFS, BFS  |
 
 
 ## Dynamic Programming
@@ -338,4 +341,11 @@
 | 977  |           [Squares of a Sorted Array](src/SquaresSortedArray.java)            |    Easy    |    100%     |         双指针         |
 | 986  |       [Interval List Intersections](src/IntervalListIntersections.java)       |   Medium   |   90.83%    |         双指针         |
 | 1855 | [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java) |   Medium   |   95.10%    |       双指针, BS       |
+
+
+## Union Find
+| ID  |                      Problem                      | Difficulty | Beat (Time) |    Note    |
+|:---:|:-------------------------------------------------:|:----------:|:-----------:|:----------:|
+| 200 |   [Number of Islands](src/NumberOfIslands.java)   |   Medium   |    100%     | DFS, Union |
+| 547 | [Number of Provinces](src/NumberOfProvinces.java) |   Medium   |    100%     | DFS, Union |
 
