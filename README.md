@@ -69,6 +69,7 @@
 | 190  |                          [Reverse Bits](src/ReverseBits.java)                           |    Easy    |    100%     |       Bit, 分治       |
 | 191  |                        [Number of 1 Bits](src/RotateArray.java)                         |    Easy    |    100%     |         Bit         |
 | 198  |                          [House Robber](src/HouseRobber.java)                           |   Medium   |    100%     |         DP          |
+| 200  |                      [Number of Islands](src/NumberOfIslands.java)                      |   Medium   |    100%     |         DFS         |
 | 203  |              [Remove Linked List Elements](src/RemoveLinkedListNodes.java)              |    Easy    |    100%     |         递归          |
 | 206  |                    [Reverse Linked List](src/ReverseLinkedList.java)                    |    Easy    |    100%     |         递归          |
 | 209  |                [Minimum Size Subarray Sum](src/MinSizeSubarraySum.java)                 |   Medium   |    100%     |        滑动窗口         |
@@ -117,7 +118,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 90
+##### Total: 91
 
 
 ## Arrays
@@ -225,6 +226,7 @@
 |:---:|:-------------------------------------------------------------:|:----------:|:-----------:|:--------:|
 | 104 | [Maximum Depth of Binary Tree](src/MaxDepthOfBinaryTree.java) |    Easy    |    100%     |   DFS    |
 | 112 |                 [Path Sum](src/PathSum.java)                  |    Easy    |    100%     | DFS, BFS |
+| 200 |         [Number of Islands](src/NumberOfIslands.java)         |   Medium   |    100%     |   DFS    |
 | 617 |    [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)     |    Easy    |    100%     | DFS, BFS |
 | 695 |        [Max Area of Island](src/MaxAreaOfIsland.java)         |   Medium   |    100%     | DFS, BFS |
 | 733 |               [Flood Fill](src/FloodFill.java)                |    Easy    |    100%     | DFS, BFS |
