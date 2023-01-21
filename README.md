@@ -97,6 +97,7 @@
 | 557  |            [Reverse Words in a String III](src/ReverseWordsInStringIII.java)            |    Easy    |    100%     |         双指针         |
 | 566  |                      [Reshape the Matrix](src/ReshapeMatrix.java)                       |    Easy    |    100%     |  Flatten 2D Array   |
 | 567  |                  [Permutation in String](src/PermutationInString.java)                  |   Medium   |    100%     |      滑动窗口, 双指针      |
+| 572  |                [Subtree of Another Tree](src/SubtreeOfAnotherTree.java)                 |    Easy    |   70.25%    |         DFS         |
 | 617  |                 [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)                  |    Easy    |    100%     |      DFS, BFS       |
 | 633  |                  [Sum of Square Numbers](src/SumOfSquareNumbers.java)                   |   Medium   |    100%     |      双指针, Math      |
 | 653  |                    [Two Sum IV - Input is a BST](src/TwoSumIV.java)                     |    Easy    |    100%     |      中序遍历, 双指针      |
@@ -121,7 +122,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 93
+##### Total: 94
 
 
 ## Arrays
@@ -202,6 +203,7 @@
 | 145 |          [Binary Tree Postorder Traversal](src/BinaryTreePostorder.java)          |    Easy    |    100%     |   后序遍历    |
 | 226 |                 [Invert Binary Tree](src/ContainsDuplicate.java)                  |    Easy    |    100%     |  递归, 迭代   |
 | 235 |        [Lowest Common Ancestor of a Binary Search Tree](src/LCAOfBST.java)        |    Easy    |    100%     |    递归     |
+| 572 |             [Subtree of Another Tree](src/SubtreeOfAnotherTree.java)              |    Easy    |   70.25%    |    DFS    |
 | 617 |              [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)               |    Easy    |    100%     | DFS, BFS  |
 | 653 |                 [Two Sum IV - Input is a BST](src/TwoSumIV.java)                  |    Easy    |    100%     | 中序遍历, 双指针 |
 | 700 |               [Search in a Binary Search Tree](src/SearchBST.java)                |    Easy    |    100%     |  递归, 迭代   |
@@ -232,6 +234,7 @@
 | 112 |                 [Path Sum](src/PathSum.java)                  |    Easy    |    100%     |  DFS, BFS  |
 | 200 |         [Number of Islands](src/NumberOfIslands.java)         |   Medium   |    100%     | DFS, Union |
 | 547 |       [Number of Provinces](src/NumberOfProvinces.java)       |   Medium   |    100%     | DFS, Union |
+| 572 |   [Subtree of Another Tree](src/SubtreeOfAnotherTree.java)    |    Easy    |   70.25%    |    DFS     |
 | 617 |    [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)     |    Easy    |    100%     |  DFS, BFS  |
 | 695 |        [Max Area of Island](src/MaxAreaOfIsland.java)         |   Medium   |    100%     |  DFS, BFS  |
 | 733 |               [Flood Fill](src/FloodFill.java)                |    Easy    |    100%     |  DFS, BFS  |
