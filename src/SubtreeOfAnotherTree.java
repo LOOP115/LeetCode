@@ -134,6 +134,7 @@ public class SubtreeOfAnotherTree {
         }
     }
 
+    // 匹配算法: Brute, KMP, Rabin-Karp...
     public boolean kmp() {
         int sLen = sOrder.size(), tLen = tOrder.size();
         int[] fail = new int[tOrder.size()];

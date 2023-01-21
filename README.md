@@ -115,6 +115,7 @@
 | 977  |                [Squares of a Sorted Array](src/SquaresSortedArray.java)                 |    Easy    |    100%     |         双指针         |
 | 986  |            [Interval List Intersections](src/IntervalListIntersections.java)            |   Medium   |   90.83%    |         双指针         |
 | 994  |                       [Rotting Oranges](src/RottingOranges.java)                        |   Medium   |    100%     |         BFS         |
+| 1091 |          [Shortest Path in Binary Matrix](src/ShortestPathInBinaryMatrix.java)          |   Medium   |   61.21%    |         BFS         |
 | 1337 |                 [The K Weakest Rows in a Matrix](src/KWeakestRows.java)                 |    Easy    |   99.29%    |      BS + Heap      |
 | 1346 |               [Check If N and Its Double Exist](src/CheckNandDouble.java)               |    Easy    |   99.07%    |       BS, Set       |
 | 1351 |          [Count Negative Numbers in a Sorted Matrix](src/CountNegatives.java)           |    Easy    |    100%     |       BS, 矩阵        |
@@ -122,7 +123,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 94
+##### Total: 95
 
 
 ## Arrays
@@ -221,10 +222,11 @@
 
 
 ## Breadth First Search
-| ID  |                  Problem                   | Difficulty | Beat (Time) |  Note   |
-|:---:|:------------------------------------------:|:----------:|:-----------:|:-------:|
-| 542 |    [01 Matrix](src/ZeroOneMatrix.java)     |   Medium   |   98.95%    | DP, BFS |
-| 994 | [Rotting Oranges](src/RottingOranges.java) |   Medium   |    100%     |   BFS   |
+|  ID  |                                Problem                                | Difficulty | Beat (Time) |  Note   |
+|:----:|:---------------------------------------------------------------------:|:----------:|:-----------:|:-------:|
+| 542  |                  [01 Matrix](src/ZeroOneMatrix.java)                  |   Medium   |   98.95%    | DP, BFS |
+| 994  |              [Rotting Oranges](src/RottingOranges.java)               |   Medium   |    100%     |   BFS   |
+| 1091 | [Shortest Path in Binary Matrix](src/ShortestPathInBinaryMatrix.java) |   Medium   |   61.21%    |   BFS   |
 
 
 ## Depth First Search
