@@ -110,6 +110,7 @@
 | 733  |                            [Flood Fill](src/FloodFill.java)                             |    Easy    |    100%     |      DFS, BFS       |
 | 744  |  [Find Smallest Letter Greater Than Target](src/SmallestLetterGreaterThanTarget.java)   |    Easy    |    100%     |         BS          |
 | 784  |                [Letter Case Permutation](src/LetterCasePermutation.java)                |   Medium   |    100%     |       回溯, Bit       |
+| 797  |           [All Paths From Source to Target](src/AllPathsFromSrcToTarget.java)           |   Medium   |    100%     |     DFS, Stack      |
 | 844  |               [Backspace String Compare](src/BackspaceStringCompare.java)               |    Easy    |    100%     |         双指针         |
 | 852  |           [Peak Index in a Mountain Array](src/PeakIndexInMountainArray.java)           |    Easy    |    100%     |         BS          |
 | 876  |                  [Middle of the Linked List](src/MiddleLinkList.java)                   |    Easy    |    100%     |         双指针         |
@@ -124,7 +125,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 96
+##### Total: 97
 
 
 ## Arrays
@@ -232,17 +233,18 @@
 
 
 ## Depth First Search
-| ID  |                            Problem                            | Difficulty | Beat (Time) |    Note    |
-|:---:|:-------------------------------------------------------------:|:----------:|:-----------:|:----------:|
-| 104 | [Maximum Depth of Binary Tree](src/MaxDepthOfBinaryTree.java) |    Easy    |    100%     |    DFS     |
-| 112 |                 [Path Sum](src/PathSum.java)                  |    Easy    |    100%     |  DFS, BFS  |
-| 130 |       [Surrounded Regions](src/SurroundedRegions.java)        |   Medium   |   99.88%    |  DFS, BFS  |
-| 200 |         [Number of Islands](src/NumberOfIslands.java)         |   Medium   |    100%     | DFS, Union |
-| 547 |       [Number of Provinces](src/NumberOfProvinces.java)       |   Medium   |    100%     | DFS, Union |
-| 572 |   [Subtree of Another Tree](src/SubtreeOfAnotherTree.java)    |    Easy    |   70.25%    |    DFS     |
-| 617 |    [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)     |    Easy    |    100%     |  DFS, BFS  |
-| 695 |        [Max Area of Island](src/MaxAreaOfIsland.java)         |   Medium   |    100%     |  DFS, BFS  |
-| 733 |               [Flood Fill](src/FloodFill.java)                |    Easy    |    100%     |  DFS, BFS  |
+| ID  |                               Problem                               | Difficulty | Beat (Time) |    Note    |
+|:---:|:-------------------------------------------------------------------:|:----------:|:-----------:|:----------:|
+| 104 |    [Maximum Depth of Binary Tree](src/MaxDepthOfBinaryTree.java)    |    Easy    |    100%     |    DFS     |
+| 112 |                    [Path Sum](src/PathSum.java)                     |    Easy    |    100%     |  DFS, BFS  |
+| 130 |          [Surrounded Regions](src/SurroundedRegions.java)           |   Medium   |   99.88%    |  DFS, BFS  |
+| 200 |            [Number of Islands](src/NumberOfIslands.java)            |   Medium   |    100%     | DFS, Union |
+| 547 |          [Number of Provinces](src/NumberOfProvinces.java)          |   Medium   |    100%     | DFS, Union |
+| 572 |      [Subtree of Another Tree](src/SubtreeOfAnotherTree.java)       |    Easy    |   70.25%    |    DFS     |
+| 617 |       [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)        |    Easy    |    100%     |  DFS, BFS  |
+| 695 |           [Max Area of Island](src/MaxAreaOfIsland.java)            |   Medium   |    100%     |  DFS, BFS  |
+| 733 |                  [Flood Fill](src/FloodFill.java)                   |    Easy    |    100%     |  DFS, BFS  |
+| 797 | [All Paths From Source to Target](src/AllPathsFromSrcToTarget.java) |   Medium   |    100%     | DFS, Stack |
 
 
 ## Dynamic Programming
@@ -317,9 +319,10 @@
 
 
 ## Stack
-| ID  |                    Problem                     | Difficulty | Beat (Time) | Note  |
-|:---:|:----------------------------------------------:|:----------:|:-----------:|:-----:|
-| 20  | [Valid Parentheses](src/ValidParentheses.java) |    Easy    |   98.84%    | Stack |
+| ID  |                               Problem                               | Difficulty | Beat (Time) |    Note    |
+|:---:|:-------------------------------------------------------------------:|:----------:|:-----------:|:----------:|
+| 20  |           [Valid Parentheses](src/ValidParentheses.java)            |    Easy    |   98.84%    |   Stack    |
+| 797 | [All Paths From Source to Target](src/AllPathsFromSrcToTarget.java) |   Medium   |    100%     | DFS, Stack |
 
 
 ## String
