@@ -50,6 +50,7 @@
 |  82  |      [Remove Duplicates from Sorted List II](src/RemoveDupsFromSortedListII.java)       |   Medium   |    100%     |         遍历          |
 |  83  |         [Remove Duplicates from Sorted List](src/RemoveDupsFromSortedList.java)         |    Easy    |    100%     |         遍历          |
 |  88  |                     [Merge Sorted Array](src/MergeSortedArray.java)                     |    Easy    |    100%     |         双指针         |
+|  90  |                            [Subsets II](src/SubsetsII.java)                             |   Medium   |   90.54%    |       回溯, Bit       |
 |  94  |               [Binary Tree Inorder Traversal](src/BinaryTreeInorder.java)               |    Easy    |    100%     |        中序遍历         |
 |  98  |                   [Validate Binary Search Tree](src/ValidateBST.java)                   |   Medium   |    100%     |      递归, 中序遍历       |
 | 101  |                        [Symmetric Tree](src/SymmetricTree.java)                         |    Easy    |    100%     |       递归, 迭代        |
@@ -126,7 +127,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 98
+##### Total: 99
 
 
 ## Arrays
@@ -162,6 +163,7 @@
 | 46  |           [Permutations](src/Permutations.java)           |   Medium   |    100%     |   回溯    |
 | 77  |           [Combinations](src/Combinations.java)           |   Medium   |   99.99%    | 回溯, 字典序 |
 | 78  |                [Subsets](src/Subsets.java)                |   Medium   |    100%     | 回溯, Bit |
+| 90  |             [Subsets II](src/SubsetsII.java)              |   Medium   |   90.54%    | 回溯, Bit |
 | 784 | [Letter Case Permutation](src/LetterCasePermutation.java) |   Medium   |    100%     | 回溯, Bit |
 
 
@@ -219,6 +221,7 @@
 | ID  |                          Problem                          | Difficulty | Beat (Time) |  Note   |
 |:---:|:---------------------------------------------------------:|:----------:|:-----------:|:-------:|
 | 78  |                [Subsets](src/Subsets.java)                |   Medium   |    100%     | 回溯, Bit |
+| 90  |             [Subsets II](src/SubsetsII.java)              |   Medium   |   90.54%    | 回溯, Bit |
 | 136 |          [Single Number](src/SingleNumber.java)           |    Easy    |    100%     |   Bit   |
 | 190 |           [Reverse Bits](src/ReverseBits.java)            |    Easy    |    100%     | Bit, 分治 |
 | 191 |         [Number of 1 Bits](src/RotateArray.java)          |    Easy    |    100%     |   Bit   |
