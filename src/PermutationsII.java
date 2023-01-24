@@ -20,8 +20,7 @@ public class PermutationsII {
             ans.add(new ArrayList<>(t));
         }
         for (int i = 0; i < nums.length; i++) {
-            // 每次填入的数一定是这个数所在重复数集合中
-            // 从左往右第一个未被填过的数字
+            // 每次填入的数一定是这个数所在重复数集合中从左往右第一个未被填过的数字
             if (used[i] || (i > 0 && nums[i - 1] == nums[i] && !used[i - 1])) {
                 continue;
             }
