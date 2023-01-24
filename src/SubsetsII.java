@@ -57,7 +57,7 @@ public class SubsetsII {
 
     // Backtracking
     // 此版本便于理解
-    public List<List<Integer>> subsetsWithDup(int[] nums) {
+    public static List<List<Integer>> subsetsWithDup(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
         int len = nums.length;
         Arrays.sort(nums);      // 排序后便于去重
@@ -65,7 +65,7 @@ public class SubsetsII {
         return res;
     }
     // dfs - 递归函数
-    public void dfs(List<List<Integer>> res, List<Integer> list, int index, int len, int[] nums){
+    public static void dfs(List<List<Integer>> res, List<Integer> list, int index, int len, int[] nums){
         if(index == len){   // [基本情况] 如果游标到达尾部，将当前list拷贝放入res中
             res.add(new ArrayList<>(list));
             return;
@@ -81,7 +81,7 @@ public class SubsetsII {
 
     public static void main(String[] args) {
         int[] test = new int[]{1,2,2};
-        System.out.println(subsetsWithDup2(test));
+        System.out.println(subsetsWithDup(test));
     }
 
 }

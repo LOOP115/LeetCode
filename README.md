@@ -40,6 +40,7 @@
 |  35  |                 [Search Insert Position](src/SearchInsertPosition.java)                 |    Easy    |    100%     |         BS          |
 |  36  |                          [Valid Sudoku](src/ValidSudoku.java)                           |   Medium   |   99.68%    |        Array        |
 |  46  |                          [Permutations](src/Permutations.java)                          |   Medium   |    100%     |         回溯          |
+|  47  |                       [Permutations II](src/PermutationsII.java)                        |   Medium   |   99.77%    |         回溯          |
 |  53  |                        [Maximum Subarray](src/MaxSubarray.java)                         |    Easy    |    100%     |     贪心, DP, 线段树     |
 |  69  |                                [Sqrt(x)](src/Sqrt.java)                                 |    Easy    |    100%     |   Math, 牛顿迭代, BS    |
 |  70  |                       [Climbing Stairs](src/ClimbingStairs.java)                        |    Easy    |    100%     |   DP, Math, Memo    |
@@ -127,7 +128,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 99
+##### Total: 100
 
 
 ## Arrays
@@ -161,6 +162,7 @@
 | ID  |                          Problem                          | Difficulty | Beat (Time) |  Note   |
 |:---:|:---------------------------------------------------------:|:----------:|:-----------:|:-------:|
 | 46  |           [Permutations](src/Permutations.java)           |   Medium   |    100%     |   回溯    |
+| 47  |        [Permutations II](src/PermutationsII.java)         |   Medium   |   99.77%    |   回溯    |
 | 77  |           [Combinations](src/Combinations.java)           |   Medium   |   99.99%    | 回溯, 字典序 |
 | 78  |                [Subsets](src/Subsets.java)                |   Medium   |    100%     | 回溯, Bit |
 | 90  |             [Subsets II](src/SubsetsII.java)              |   Medium   |   90.54%    | 回溯, Bit |
