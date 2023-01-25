@@ -32,6 +32,7 @@
 |  3   |   [Longest Substring Without Repeating Characters](src/LengthOfLongestSubstring.java)   |   Medium   |    100%     |     Set? + 滑动窗口     |
 |  11  |              [Container With Most Water](src/ContainerWithMostWater.java)               |   Medium   |   90.73%    |         双指针         |
 |  15  |                             [Three Sum](src/ThreeSum.java)                              |   Medium   |   76.77%    |     Sort + 双指针      |
+|  17  |        [Letter Combinations of a Phone Number](src/LetterCombinationPhone.java)         |   Medium   |    100%     |     回溯, HashMap     |
 |  19  |              [Remove Nth Node From End of List](src/RemoveNthFromEnd.java)              |   Medium   |    100%     |     Stack, 双指针      |
 |  20  |                     [Valid Parentheses](src/ValidParentheses.java)                      |    Easy    |   98.84%    |        Stack        |
 |  21  |                 [Merge Two Sorted Lists](src/MergeTwoSortedLists.java)                  |    Easy    |    100%     |         递归          |
@@ -130,7 +131,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 102
+##### Total: 103
 
 
 ## Arrays
@@ -161,16 +162,17 @@
 
 
 ## Backtracking
-| ID  |                          Problem                          | Difficulty | Beat (Time) |  Note   |
-|:---:|:---------------------------------------------------------:|:----------:|:-----------:|:-------:|
-| 39  |        [Combination Sum](src/CombinationSum.java)         |   Medium   |    100%     |   回溯    |
-| 40  |      [Combination Sum II](src/CombinationSumII.java)      |   Medium   |   99.41%    |   回溯    |
-| 46  |           [Permutations](src/Permutations.java)           |   Medium   |    100%     |   回溯    |
-| 47  |        [Permutations II](src/PermutationsII.java)         |   Medium   |   99.77%    |   回溯    |
-| 77  |           [Combinations](src/Combinations.java)           |   Medium   |   99.99%    | 回溯, 字典序 |
-| 78  |                [Subsets](src/Subsets.java)                |   Medium   |    100%     | 回溯, Bit |
-| 90  |             [Subsets II](src/SubsetsII.java)              |   Medium   |   90.54%    | 回溯, Bit |
-| 784 | [Letter Case Permutation](src/LetterCasePermutation.java) |   Medium   |    100%     | 回溯, Bit |
+| ID  |                                 Problem                                  | Difficulty | Beat (Time) |    Note     |
+|:---:|:------------------------------------------------------------------------:|:----------:|:-----------:|:-----------:|
+| 17  | [Letter Combinations of a Phone Number](src/LetterCombinationPhone.java) |   Medium   |    100%     | 回溯, HashMap |
+| 39  |                [Combination Sum](src/CombinationSum.java)                |   Medium   |    100%     |     回溯      |
+| 40  |             [Combination Sum II](src/CombinationSumII.java)              |   Medium   |   99.41%    |     回溯      |
+| 46  |                  [Permutations](src/Permutations.java)                   |   Medium   |    100%     |     回溯      |
+| 47  |                [Permutations II](src/PermutationsII.java)                |   Medium   |   99.77%    |     回溯      |
+| 77  |                  [Combinations](src/Combinations.java)                   |   Medium   |   99.99%    |   回溯, 字典序   |
+| 78  |                       [Subsets](src/Subsets.java)                        |   Medium   |    100%     |   回溯, Bit   |
+| 90  |                     [Subsets II](src/SubsetsII.java)                     |   Medium   |   90.54%    |   回溯, Bit   |
+| 784 |        [Letter Case Permutation](src/LetterCasePermutation.java)         |   Medium   |    100%     |   回溯, Bit   |
 
 
 ## Binary Search
@@ -272,13 +274,14 @@
 
 
 ## Hash Map
-| ID  |                            Problem                             | Difficulty | Beat (Time) |        Note         |
-|:---:|:--------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
-|  1  |                   [Two Sum](src/TwoSum.java)                   |    Easy    |   99.38%    |       HashMap       |
-| 242 |             [Valid Anagram](src/ValidAnagram.java)             |    Easy    |    100%     |       HaspMap       |
-| 350 | [Intersection of Two Arrays II](src/IntersectTwoArraysII.java) |    Easy    |   89.79%    | HashMap, Sort + 双指针 |
-| 383 |               [Ransom Note](src/RansomNote.java)               |    Easy    |   99.95%    |       HashMap       |
-| 387 | [First Unique Character in a String](src/FirstUniqueChar.java) |    Easy    |   91.77%    |       HashMap       |
+| ID  |                                 Problem                                  | Difficulty | Beat (Time) |        Note         |
+|:---:|:------------------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
+|  1  |                        [Two Sum](src/TwoSum.java)                        |    Easy    |   99.38%    |       HashMap       |
+| 17  | [Letter Combinations of a Phone Number](src/LetterCombinationPhone.java) |   Medium   |    100%     |     回溯, HashMap     |
+| 242 |                  [Valid Anagram](src/ValidAnagram.java)                  |    Easy    |    100%     |       HaspMap       |
+| 350 |      [Intersection of Two Arrays II](src/IntersectTwoArraysII.java)      |    Easy    |   89.79%    | HashMap, Sort + 双指针 |
+| 383 |                    [Ransom Note](src/RansomNote.java)                    |    Easy    |   99.95%    |       HashMap       |
+| 387 |      [First Unique Character in a String](src/FirstUniqueChar.java)      |    Easy    |   91.77%    |       HashMap       |
 
 
 ## Heap
@@ -338,11 +341,12 @@
 
 
 ## String
-| ID  |                           Problem                           | Difficulty | Beat (Time) |  Note   |
-|:---:|:-----------------------------------------------------------:|:----------:|:-----------:|:-------:|
-| 46  |            [Permutations](src/Permutations.java)            |   Medium   |    100%     |   回溯    |
-| 784 |  [Letter Case Permutation](src/LetterCasePermutation.java)  |   Medium   |    100%     | 回溯, Bit |
-| 844 | [Backspace String Compare](src/BackspaceStringCompare.java) |    Easy    |    100%     |   双指针   |
+| ID  |                                 Problem                                  | Difficulty | Beat (Time) |    Note     |
+|:---:|:------------------------------------------------------------------------:|:----------:|:-----------:|:-----------:|
+| 17  | [Letter Combinations of a Phone Number](src/LetterCombinationPhone.java) |   Medium   |    100%     | 回溯, HashMap |
+| 46  |                  [Permutations](src/Permutations.java)                   |   Medium   |    100%     |     回溯      |
+| 784 |        [Letter Case Permutation](src/LetterCasePermutation.java)         |   Medium   |    100%     |   回溯, Bit   |
+| 844 |       [Backspace String Compare](src/BackspaceStringCompare.java)        |    Easy    |    100%     |     双指针     |
 
 
 ## Two Pointers
