@@ -4,7 +4,7 @@ public class JumpGame {
     public static boolean canJump(int[] nums) {
         int k = 0;
         int n = nums.length;
-        for (int i = 0; i < nums.length; i++) {
+        for (int i = 0; i < n; i++) {
             if (i > k) return false;
             // 可以提前结束循环，但加了下面一行击败率会下降
             // if (i > n - 1) return true;

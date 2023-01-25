@@ -43,6 +43,7 @@
 |  36  |                          [Valid Sudoku](src/ValidSudoku.java)                           |   Medium   |   99.68%    |        Array        |
 |  39  |                       [Combination Sum](src/CombinationSum.java)                        |   Medium   |    100%     |         回溯          |
 |  40  |                     [Combination Sum II](src/CombinationSumII.java)                     |   Medium   |   99.41%    |         回溯          |
+|  45  |                           [Jump Game II](src/JumpGameII.java)                           |   Medium   |   98.93%    |         DP          |
 |  46  |                          [Permutations](src/Permutations.java)                          |   Medium   |    100%     |         回溯          |
 |  47  |                       [Permutations II](src/PermutationsII.java)                        |   Medium   |   99.77%    |         回溯          |
 |  53  |                        [Maximum Subarray](src/MaxSubarray.java)                         |    Easy    |    100%     |     贪心, DP, 线段树     |
@@ -135,7 +136,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 107
+##### Total: 108
 
 
 ## Arrays
@@ -270,6 +271,7 @@
 ## Dynamic Programming
 | ID  |                             Problem                              | Difficulty | Beat (Time) |      Note      |
 |:---:|:----------------------------------------------------------------:|:----------:|:-----------:|:--------------:|
+| 45  |               [Jump Game II](src/JumpGameII.java)                |   Medium   |   98.93%    |       DP       |
 | 53  |             [Maximum Subarray](src/MaxSubarray.java)             |    Easy    |    100%     |  贪心, DP, 线段树   |
 | 55  |                  [Jump Game](src/JumpGame.java)                  |   Medium   |   94.10%    |       DP       |
 | 70  |            [Climbing Stairs](src/ClimbingStairs.java)            |    Easy    |    100%     | DP, Math, Memo |
