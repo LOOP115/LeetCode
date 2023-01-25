@@ -36,6 +36,7 @@
 |  19  |              [Remove Nth Node From End of List](src/RemoveNthFromEnd.java)              |   Medium   |    100%     |     Stack, 双指针      |
 |  20  |                     [Valid Parentheses](src/ValidParentheses.java)                      |    Easy    |   98.84%    |        Stack        |
 |  21  |                 [Merge Two Sorted Lists](src/MergeTwoSortedLists.java)                  |    Easy    |    100%     |         递归          |
+|  22  |                  [Generate Parentheses](src/GenerateParentheses.java)                   |   Medium   |    100%     |         回溯          |
 |  33  |           [Search in Rotated Sorted Array](src/SearchRotatedSortedArray.java)           |   Medium   |    100%     |         BS          |
 |  34  | [Find First and Last Position of Element in Sorted Array](src/FirstLastPosInArray.java) |   Medium   |    100%     |         BS          |
 |  35  |                 [Search Insert Position](src/SearchInsertPosition.java)                 |    Easy    |    100%     |         BS          |
@@ -131,7 +132,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 103
+##### Total: 104
 
 
 ## Arrays
@@ -165,6 +166,7 @@
 | ID  |                                 Problem                                  | Difficulty | Beat (Time) |    Note     |
 |:---:|:------------------------------------------------------------------------:|:----------:|:-----------:|:-----------:|
 | 17  | [Letter Combinations of a Phone Number](src/LetterCombinationPhone.java) |   Medium   |    100%     | 回溯, HashMap |
+| 22  |           [Generate Parentheses](src/GenerateParentheses.java)           |   Medium   |    100%     |     回溯      |
 | 39  |                [Combination Sum](src/CombinationSum.java)                |   Medium   |    100%     |     回溯      |
 | 40  |             [Combination Sum II](src/CombinationSumII.java)              |   Medium   |   99.41%    |     回溯      |
 | 46  |                  [Permutations](src/Permutations.java)                   |   Medium   |    100%     |     回溯      |

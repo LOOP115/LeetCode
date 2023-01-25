@@ -6,6 +6,8 @@ import java.util.Map;
 public class LetterCombinationPhone {
 
     // Attempt 1  100%
+    // Time: O(3^m * 4^n)
+    // Space: O(m + n)
     public static Map<Character, String> phoneMap = new HashMap<>() {{
         put('2', "abc");
         put('3', "def");
