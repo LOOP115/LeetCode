@@ -1,4 +1,5 @@
 # LeetCode
+
 ## Categories
 > __Algorithms__
 * [Backtracking](#backtracking)
@@ -7,6 +8,7 @@
 * [Breadth First Search](#breadth-first-search)
 * [Depth First Search](#depth-first-search)
 * [Dynamic Programming](#dynamic-programming)
+* [Math](#math)
 * [Sliding Window](#sliding-window)
 * [Two Pointers](#two-pointers)
 * [Union Find](#union-find)
@@ -25,7 +27,7 @@
 * [String](#string)
 
 
-## Summary
+## Overview
 |  ID  |                                         Problem                                         | Difficulty | Beat (Time) |        Note         |
 |:----:|:---------------------------------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
 |  1   |                               [Two Sum](src/TwoSum.java)                                |    Easy    |   99.38%    |       HashMap       |
@@ -48,6 +50,7 @@
 |  47  |                       [Permutations II](src/PermutationsII.java)                        |   Medium   |   99.77%    |         回溯          |
 |  53  |                        [Maximum Subarray](src/MaxSubarray.java)                         |    Easy    |    100%     |     贪心, DP, 线段树     |
 |  55  |                             [Jump Game](src/JumpGame.java)                              |   Medium   |   94.10%    |         DP          |
+|  62  |                          [Unique Paths](src/UniquePaths.java)                           |   Medium   |    100%     |      DP, Math       |
 |  69  |                                [Sqrt(x)](src/Sqrt.java)                                 |    Easy    |    100%     |   Math, 牛顿迭代, BS    |
 |  70  |                       [Climbing Stairs](src/ClimbingStairs.java)                        |    Easy    |    100%     |   DP, Math, Memo    |
 |  73  |                      [Set Matrix Zeroes](src/SetMatrixZeroes.java)                      |   Medium   |    100%     |        Array        |
@@ -136,7 +139,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 108
+##### Total: 109
 
 
 ## Arrays
@@ -274,6 +277,7 @@
 | 45  |               [Jump Game II](src/JumpGameII.java)                |   Medium   |   98.93%    |       DP       |
 | 53  |             [Maximum Subarray](src/MaxSubarray.java)             |    Easy    |    100%     |  贪心, DP, 线段树   |
 | 55  |                  [Jump Game](src/JumpGame.java)                  |   Medium   |   94.10%    |       DP       |
+| 62  |               [Unique Paths](src/UniquePaths.java)               |   Medium   |    100%     |    DP, Math    |
 | 70  |            [Climbing Stairs](src/ClimbingStairs.java)            |    Easy    |    100%     | DP, Math, Memo |
 | 118 |           [Pascal's Triangle](src/PascalTriangle.java)           |    Easy    |    100%     |       DP       |
 | 120 |                  [Triangle](src/Triangle.java)                   |   Medium   |   96.09%    |       DP       |
@@ -311,6 +315,18 @@
 | 203 |        [Remove Linked List Elements](src/RemoveLinkedListNodes.java)         |    Easy    |    100%     |     递归     |
 | 206 |              [Reverse Linked List](src/ReverseLinkedList.java)               |    Easy    |    100%     |     递归     |
 | 876 |             [Middle of the Linked List](src/MiddleLinkList.java)             |    Easy    |    100%     |    双指针     |
+
+
+## Math
+| ID  |                       Problem                        | Difficulty | Beat (Time) |      Note      |
+|:---:|:----------------------------------------------------:|:----------:|:-----------:|:--------------:|
+| 62  |         [Unique Paths](src/UniquePaths.java)         |   Medium   |    100%     |    DP, Math    |
+| 69  |               [Sqrt(x)](src/Sqrt.java)               |    Easy    |    100%     | Math, 牛顿迭代, BS |
+| 70  |      [Climbing Stairs](src/ClimbingStairs.java)      |    Easy    |    100%     | DP, Math, Memo |
+| 189 |         [Rotate Array](src/RotateArray.java)         |   Medium   |    100%     | Math, Reverse  |
+| 367 | [Valid Perfect Square](src/ValidPerfectSquare.java)  |    Easy    |    100%     | Math, 牛顿迭代, BS |
+| 441 |       [Arranging Coins](src/ArrangeCoins.java)       |    Easy    |   97.93%    |    Math, BS    |
+| 633 | [Sum of Square Numbers](src/SumOfSquareNumbers.java) |   Medium   |    100%     |   双指针, Math    |
 
 
 ## Queue
