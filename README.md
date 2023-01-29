@@ -77,6 +77,7 @@
 | 121  |            [Best Time to Buy and Sell Stock](src/BestTimeBuySellStock.java)             |    Easy    |    100%     |         DP          |
 | 130  |                    [Surrounded Regions](src/SurroundedRegions.java)                     |   Medium   |   99.88%    |      DFS, BFS       |
 | 136  |                         [Single Number](src/SingleNumber.java)                          |    Easy    |    100%     |         Bit         |
+| 139  |                            [Word Break](src/WordBreak.java)                             |   Medium   |   51.30%    |         DP          |
 | 141  |                      [Linked List Cycle](src/LinkedListCycle.java)                      |    Easy    |    100%     |         双指针         |
 | 144  |              [Binary Tree Preorder Traversal](src/BinaryTreePreorder.java)              |    Easy    |    100%     |        前序遍历         |
 | 145  |             [Binary Tree Postorder Traversal](src/BinaryTreePostorder.java)             |    Easy    |    100%     |        后序遍历         |
@@ -142,7 +143,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 112
+##### Total: 113
 
 
 ## Arrays
@@ -287,6 +288,7 @@
 | 118 |             [Pascal's Triangle](src/PascalTriangle.java)              |    Easy    |    100%     |       DP       |
 | 120 |                     [Triangle](src/Triangle.java)                     |   Medium   |   96.09%    |       DP       |
 | 121 |   [Best Time to Buy and Sell Stock](src/BestTimeBuySellStock.java)    |    Easy    |    100%     |       DP       |
+| 139 |                   [Word Break](src/WordBreak.java)                    |   Medium   |   51.30%    |       DP       |
 | 198 |                 [House Robber](src/HouseRobber.java)                  |   Medium   |    100%     |       DP       |
 | 213 |               [House Robber II](src/HouseRobberII.java)               |   Medium   |    100%     |       DP       |
 | 413 |            [Arithmetic Slices](src/ArithmeticSlices.java)             |   Medium   |    100%     |       DP       |
