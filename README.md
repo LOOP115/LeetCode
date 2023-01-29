@@ -32,6 +32,7 @@
 |:----:|:---------------------------------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
 |  1   |                               [Two Sum](src/TwoSum.java)                                |    Easy    |   99.38%    |       HashMap       |
 |  3   |   [Longest Substring Without Repeating Characters](src/LengthOfLongestSubstring.java)   |   Medium   |    100%     |     Set? + 滑动窗口     |
+|  5   |          [Longest Palindromic Substring](src/LongestPalindromicSubstring.java)          |   Medium   |   85.47%    |         DP          |
 |  11  |              [Container With Most Water](src/ContainerWithMostWater.java)               |   Medium   |   90.73%    |         双指针         |
 |  15  |                             [Three Sum](src/ThreeSum.java)                              |   Medium   |   76.77%    |     Sort + 双指针      |
 |  17  |        [Letter Combinations of a Phone Number](src/LetterCombinationPhone.java)         |   Medium   |    100%     |     回溯, HashMap     |
@@ -139,7 +140,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 109
+##### Total: 110
 
 
 ## Arrays
@@ -272,19 +273,20 @@
 
 
 ## Dynamic Programming
-| ID  |                             Problem                              | Difficulty | Beat (Time) |      Note      |
-|:---:|:----------------------------------------------------------------:|:----------:|:-----------:|:--------------:|
-| 45  |               [Jump Game II](src/JumpGameII.java)                |   Medium   |   98.93%    |       DP       |
-| 53  |             [Maximum Subarray](src/MaxSubarray.java)             |    Easy    |    100%     |  贪心, DP, 线段树   |
-| 55  |                  [Jump Game](src/JumpGame.java)                  |   Medium   |   94.10%    |       DP       |
-| 62  |               [Unique Paths](src/UniquePaths.java)               |   Medium   |    100%     |    DP, Math    |
-| 70  |            [Climbing Stairs](src/ClimbingStairs.java)            |    Easy    |    100%     | DP, Math, Memo |
-| 118 |           [Pascal's Triangle](src/PascalTriangle.java)           |    Easy    |    100%     |       DP       |
-| 120 |                  [Triangle](src/Triangle.java)                   |   Medium   |   96.09%    |       DP       |
-| 121 | [Best Time to Buy and Sell Stock](src/BestTimeBuySellStock.java) |    Easy    |    100%     |       DP       |
-| 198 |               [House Robber](src/HouseRobber.java)               |   Medium   |    100%     |       DP       |
-| 213 |            [House Robber II](src/HouseRobberII.java)             |   Medium   |    100%     |       DP       |
-| 542 |               [01 Matrix](src/ZeroOneMatrix.java)                |   Medium   |   98.95%    |    DP, BFS     |
+| ID  |                                Problem                                | Difficulty | Beat (Time) |      Note      |
+|:---:|:---------------------------------------------------------------------:|:----------:|:-----------:|:--------------:|
+|  5  | [Longest Palindromic Substring](src/LongestPalindromicSubstring.java) |   Medium   |   85.47%    |       DP       |
+| 45  |                  [Jump Game II](src/JumpGameII.java)                  |   Medium   |   98.93%    |       DP       |
+| 53  |               [Maximum Subarray](src/MaxSubarray.java)                |    Easy    |    100%     |  贪心, DP, 线段树   |
+| 55  |                    [Jump Game](src/JumpGame.java)                     |   Medium   |   94.10%    |       DP       |
+| 62  |                 [Unique Paths](src/UniquePaths.java)                  |   Medium   |    100%     |    DP, Math    |
+| 70  |              [Climbing Stairs](src/ClimbingStairs.java)               |    Easy    |    100%     | DP, Math, Memo |
+| 118 |             [Pascal's Triangle](src/PascalTriangle.java)              |    Easy    |    100%     |       DP       |
+| 120 |                     [Triangle](src/Triangle.java)                     |   Medium   |   96.09%    |       DP       |
+| 121 |   [Best Time to Buy and Sell Stock](src/BestTimeBuySellStock.java)    |    Easy    |    100%     |       DP       |
+| 198 |                 [House Robber](src/HouseRobber.java)                  |   Medium   |    100%     |       DP       |
+| 213 |               [House Robber II](src/HouseRobberII.java)               |   Medium   |    100%     |       DP       |
+| 542 |                  [01 Matrix](src/ZeroOneMatrix.java)                  |   Medium   |   98.95%    |    DP, BFS     |
 
 
 ## Hash Map
@@ -369,6 +371,7 @@
 ## String
 | ID  |                                 Problem                                  | Difficulty | Beat (Time) |    Note     |
 |:---:|:------------------------------------------------------------------------:|:----------:|:-----------:|:-----------:|
+|  5  |  [Longest Palindromic Substring](src/LongestPalindromicSubstring.java)   |   Medium   |   85.47%    |     DP      |
 | 17  | [Letter Combinations of a Phone Number](src/LetterCombinationPhone.java) |   Medium   |    100%     | 回溯, HashMap |
 | 46  |                  [Permutations](src/Permutations.java)                   |   Medium   |    100%     |     回溯      |
 | 784 |        [Letter Case Permutation](src/LetterCasePermutation.java)         |   Medium   |    100%     |   回溯, Bit   |

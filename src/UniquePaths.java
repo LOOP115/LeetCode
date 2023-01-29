@@ -1,5 +1,3 @@
-import java.util.Queue;
-
 public class UniquePaths {
 
     // Attempt 1: DP  100%  O(mn)
@@ -31,6 +29,5 @@ public class UniquePaths {
         }
         return (int) ans;
     }
-
 
 }
