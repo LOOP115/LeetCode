@@ -138,6 +138,7 @@
 | 986  |            [Interval List Intersections](src/IntervalListIntersections.java)            |   Medium   |   90.83%    |         双指针         |
 | 994  |                       [Rotting Oranges](src/RottingOranges.java)                        |   Medium   |    100%     |         BFS         |
 | 1091 |          [Shortest Path in Binary Matrix](src/ShortestPathInBinaryMatrix.java)          |   Medium   |   61.21%    |         BFS         |
+| 1143 |               [Longest Common Subsequence](src/LongestCommonSubseq.java)                |   Medium   |   52.01%    |         DP          |
 | 1337 |                 [The K Weakest Rows in a Matrix](src/KWeakestRows.java)                 |    Easy    |   99.29%    |      BS + Heap      |
 | 1346 |               [Check If N and Its Double Exist](src/CheckNandDouble.java)               |    Easy    |   99.07%    |       BS, Set       |
 | 1351 |          [Count Negative Numbers in a Sorted Matrix](src/CountNegatives.java)           |    Easy    |    100%     |       BS, 矩阵        |
@@ -145,7 +146,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 115
+##### Total: 116
 
 
 ## Arrays
@@ -279,25 +280,26 @@
 
 
 ## Dynamic Programming
-| ID  |                                Problem                                | Difficulty | Beat (Time) |      Note      |
-|:---:|:---------------------------------------------------------------------:|:----------:|:-----------:|:--------------:|
-|  5  | [Longest Palindromic Substring](src/LongestPalindromicSubstring.java) |   Medium   |   85.47%    |       DP       |
-| 45  |                  [Jump Game II](src/JumpGameII.java)                  |   Medium   |   98.93%    |       DP       |
-| 53  |               [Maximum Subarray](src/MaxSubarray.java)                |    Easy    |    100%     |  贪心, DP, 线段树   |
-| 55  |                    [Jump Game](src/JumpGame.java)                     |   Medium   |   94.10%    |       DP       |
-| 62  |                 [Unique Paths](src/UniquePaths.java)                  |   Medium   |    100%     |    DP, Math    |
-| 70  |              [Climbing Stairs](src/ClimbingStairs.java)               |    Easy    |    100%     | DP, Math, Memo |
-| 91  |                  [Decode Ways](src/DecodeWays.java)                   |   Medium   |    100%     |       DP       |
-| 118 |             [Pascal's Triangle](src/PascalTriangle.java)              |    Easy    |    100%     |       DP       |
-| 120 |                     [Triangle](src/Triangle.java)                     |   Medium   |   96.09%    |       DP       |
-| 121 |   [Best Time to Buy and Sell Stock](src/BestTimeBuySellStock.java)    |    Easy    |    100%     |       DP       |
-| 139 |                   [Word Break](src/WordBreak.java)                    |   Medium   |   51.30%    |       DP       |
-| 198 |                 [House Robber](src/HouseRobber.java)                  |   Medium   |    100%     |       DP       |
-| 213 |               [House Robber II](src/HouseRobberII.java)               |   Medium   |    100%     |       DP       |
-| 300 |  [Longest Increasing Subsequence](src/LongestIncreasingSubseq.java)   |   Medium   |    100%     |     DP, BS     |
-| 413 |            [Arithmetic Slices](src/ArithmeticSlices.java)             |   Medium   |    100%     |       DP       |
-| 542 |                  [01 Matrix](src/ZeroOneMatrix.java)                  |   Medium   |   98.95%    |    DP, BFS     |
-| 673 |     [Number of Longest Increasing Subsequence](src/NumOfLIS.java)     |   Medium   |   99.64%    |       DP       |
+|  ID  |                                Problem                                | Difficulty | Beat (Time) |      Note      |
+|:----:|:---------------------------------------------------------------------:|:----------:|:-----------:|:--------------:|
+|  5   | [Longest Palindromic Substring](src/LongestPalindromicSubstring.java) |   Medium   |   85.47%    |       DP       |
+|  45  |                  [Jump Game II](src/JumpGameII.java)                  |   Medium   |   98.93%    |       DP       |
+|  53  |               [Maximum Subarray](src/MaxSubarray.java)                |    Easy    |    100%     |  贪心, DP, 线段树   |
+|  55  |                    [Jump Game](src/JumpGame.java)                     |   Medium   |   94.10%    |       DP       |
+|  62  |                 [Unique Paths](src/UniquePaths.java)                  |   Medium   |    100%     |    DP, Math    |
+|  70  |              [Climbing Stairs](src/ClimbingStairs.java)               |    Easy    |    100%     | DP, Math, Memo |
+|  91  |                  [Decode Ways](src/DecodeWays.java)                   |   Medium   |    100%     |       DP       |
+| 118  |             [Pascal's Triangle](src/PascalTriangle.java)              |    Easy    |    100%     |       DP       |
+| 120  |                     [Triangle](src/Triangle.java)                     |   Medium   |   96.09%    |       DP       |
+| 121  |   [Best Time to Buy and Sell Stock](src/BestTimeBuySellStock.java)    |    Easy    |    100%     |       DP       |
+| 139  |                   [Word Break](src/WordBreak.java)                    |   Medium   |   51.30%    |       DP       |
+| 198  |                 [House Robber](src/HouseRobber.java)                  |   Medium   |    100%     |       DP       |
+| 213  |               [House Robber II](src/HouseRobberII.java)               |   Medium   |    100%     |       DP       |
+| 300  |  [Longest Increasing Subsequence](src/LongestIncreasingSubseq.java)   |   Medium   |    100%     |     DP, BS     |
+| 413  |            [Arithmetic Slices](src/ArithmeticSlices.java)             |   Medium   |    100%     |       DP       |
+| 542  |                  [01 Matrix](src/ZeroOneMatrix.java)                  |   Medium   |   98.95%    |    DP, BFS     |
+| 673  |     [Number of Longest Increasing Subsequence](src/NumOfLIS.java)     |   Medium   |   99.64%    |       DP       |
+| 1143 |      [Longest Common Subsequence](src/LongestCommonSubseq.java)       |   Medium   |   52.01%    |       DP       |
 
 
 ## Hash Map
