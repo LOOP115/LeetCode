@@ -101,6 +101,7 @@
 | 242  |                         [Valid Anagram](src/ValidAnagram.java)                          |    Easy    |    100%     |       HaspMap       |
 | 278  |                      [First Bad Version](src/FirstBadVersion.java)                      |    Easy    |   99.95%    |         BS          |
 | 283  |                            [Move Zeros](src/MoveZeros.java)                             |    Easy    |    100%     |        双指针?         |
+| 300  |           [Longest Increasing Subsequence](src/LongestIncreasingSubseq.java)            |   Medium   |    100%     |       DP, BS        |
 | 344  |                        [Reverse String](src/ReverseString.java)                         |    Easy    |    100%     |         双指针         |
 | 349  |                [Intersection of Two Arrays](src/IntersectTwoArrays.java)                |    Easy    |   93.84%    |   Set, Sort + 双指针   |
 | 350  |             [Intersection of Two Arrays II](src/IntersectTwoArraysII.java)              |    Easy    |   89.79%    | HashMap, Sort + 双指针 |
@@ -143,7 +144,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 113
+##### Total: 114
 
 
 ## Arrays
@@ -202,6 +203,7 @@
 | 167  |                 [Two Sum II - Input Array is Sorted](src/TwoSumII.java)                 |   Medium   |    100%     |    BS, 双指针     |
 | 217  |                    [Contains Duplicate](src/ContainsDuplicate.java)                     |    Easy    |   99.08%    |      Set       |
 | 278  |                      [First Bad Version](src/FirstBadVersion.java)                      |    Easy    |   99.95%    |       BS       |
+| 300  |           [Longest Increasing Subsequence](src/LongestIncreasingSubseq.java)            |   Medium   |    100%     |     DP, BS     |
 | 367  |                   [Valid Perfect Square](src/ValidPerfectSquare.java)                   |    Easy    |    100%     | Math, 牛顿迭代, BS |
 | 374  |                    [Guess Number Higher or Lower](src/GuessNum.java)                    |    Easy    |    100%     |       BS       |
 | 441  |                        [Arranging Coins](src/ArrangeCoins.java)                         |    Easy    |   97.93%    |    Math, BS    |
@@ -291,6 +293,7 @@
 | 139 |                   [Word Break](src/WordBreak.java)                    |   Medium   |   51.30%    |       DP       |
 | 198 |                 [House Robber](src/HouseRobber.java)                  |   Medium   |    100%     |       DP       |
 | 213 |               [House Robber II](src/HouseRobberII.java)               |   Medium   |    100%     |       DP       |
+| 300 |  [Longest Increasing Subsequence](src/LongestIncreasingSubseq.java)   |   Medium   |    100%     |     DP, BS     |
 | 413 |            [Arithmetic Slices](src/ArithmeticSlices.java)             |   Medium   |    100%     |       DP       |
 | 542 |                  [01 Matrix](src/ZeroOneMatrix.java)                  |   Medium   |   98.95%    |    DP, BFS     |
 
