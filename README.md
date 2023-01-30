@@ -118,6 +118,7 @@
 | 566  |                      [Reshape the Matrix](src/ReshapeMatrix.java)                       |    Easy    |    100%     |  Flatten 2D Array   |
 | 567  |                  [Permutation in String](src/PermutationInString.java)                  |   Medium   |    100%     |      滑动窗口, 双指针      |
 | 572  |                [Subtree of Another Tree](src/SubtreeOfAnotherTree.java)                 |    Easy    |   70.25%    |         DFS         |
+| 583  |             [Delete Operation for Two Strings](src/DeleteOpForTwoStrs.java)             |   Medium   |   93.79%    |         DP          |
 | 617  |                 [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)                  |    Easy    |    100%     |      DFS, BFS       |
 | 633  |                  [Sum of Square Numbers](src/SumOfSquareNumbers.java)                   |   Medium   |    100%     |      双指针, Math      |
 | 653  |                    [Two Sum IV - Input is a BST](src/TwoSumIV.java)                     |    Easy    |    100%     |      中序遍历, 双指针      |
@@ -146,7 +147,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 116
+##### Total: 117
 
 
 ## Arrays
@@ -298,6 +299,7 @@
 | 300  |  [Longest Increasing Subsequence](src/LongestIncreasingSubseq.java)   |   Medium   |    100%     |     DP, BS     |
 | 413  |            [Arithmetic Slices](src/ArithmeticSlices.java)             |   Medium   |    100%     |       DP       |
 | 542  |                  [01 Matrix](src/ZeroOneMatrix.java)                  |   Medium   |   98.95%    |    DP, BFS     |
+| 583  |    [Delete Operation for Two Strings](src/DeleteOpForTwoStrs.java)    |   Medium   |   93.79%    |       DP       |
 | 673  |     [Number of Longest Increasing Subsequence](src/NumOfLIS.java)     |   Medium   |   99.64%    |       DP       |
 | 1143 |      [Longest Common Subsequence](src/LongestCommonSubseq.java)       |   Medium   |   52.01%    |       DP       |
 
