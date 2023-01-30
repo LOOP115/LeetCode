@@ -121,6 +121,7 @@
 | 617  |                 [Merge Two Binary Trees](src/MergeTwoBinaryTrees.java)                  |    Easy    |    100%     |      DFS, BFS       |
 | 633  |                  [Sum of Square Numbers](src/SumOfSquareNumbers.java)                   |   Medium   |    100%     |      双指针, Math      |
 | 653  |                    [Two Sum IV - Input is a BST](src/TwoSumIV.java)                     |    Easy    |    100%     |      中序遍历, 双指针      |
+| 673  |              [Number of Longest Increasing Subsequence](src/NumOfLIS.java)              |   Medium   |   99.64%    |         DP          |
 | 695  |                     [Max Area of Island](src/MaxAreaOfIsland.java)                      |   Medium   |    100%     |      DFS, BFS       |
 | 700  |                  [Search in a Binary Search Tree](src/SearchBST.java)                   |    Easy    |    100%     |       递归, 迭代        |
 | 701  |               [Insert into a Binary Search Tree](src/InsertIntoBST.java)                |   Medium   |    100%     |       递归, 迭代        |
@@ -144,7 +145,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 114
+##### Total: 115
 
 
 ## Arrays
@@ -296,6 +297,7 @@
 | 300 |  [Longest Increasing Subsequence](src/LongestIncreasingSubseq.java)   |   Medium   |    100%     |     DP, BS     |
 | 413 |            [Arithmetic Slices](src/ArithmeticSlices.java)             |   Medium   |    100%     |       DP       |
 | 542 |                  [01 Matrix](src/ZeroOneMatrix.java)                  |   Medium   |   98.95%    |    DP, BFS     |
+| 673 |     [Number of Longest Increasing Subsequence](src/NumOfLIS.java)     |   Medium   |   99.64%    |       DP       |
 
 
 ## Hash Map
