@@ -103,6 +103,7 @@
 | 278  |                      [First Bad Version](src/FirstBadVersion.java)                      |    Easy    |   99.95%    |         BS          |
 | 283  |                            [Move Zeros](src/MoveZeros.java)                             |    Easy    |    100%     |        双指针?         |
 | 300  |           [Longest Increasing Subsequence](src/LongestIncreasingSubseq.java)            |   Medium   |    100%     |       DP, BS        |
+| 322  |                           [Coin Change](src/CoinChange.java)                            |   Medium   |   85.37%    |         DP          |
 | 344  |                        [Reverse String](src/ReverseString.java)                         |    Easy    |    100%     |         双指针         |
 | 349  |                [Intersection of Two Arrays](src/IntersectTwoArrays.java)                |    Easy    |   93.84%    |   Set, Sort + 双指针   |
 | 350  |             [Intersection of Two Arrays II](src/IntersectTwoArraysII.java)              |    Easy    |   89.79%    | HashMap, Sort + 双指针 |
@@ -148,7 +149,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 118
+##### Total: 119
 
 
 ## Arrays
@@ -299,6 +300,7 @@
 | 198  |                 [House Robber](src/HouseRobber.java)                  |   Medium   |    100%     |       DP       |
 | 213  |               [House Robber II](src/HouseRobberII.java)               |   Medium   |    100%     |       DP       |
 | 300  |  [Longest Increasing Subsequence](src/LongestIncreasingSubseq.java)   |   Medium   |    100%     |     DP, BS     |
+| 322  |                  [Coin Change](src/CoinChange.java)                   |   Medium   |   85.37%    |       DP       |
 | 413  |            [Arithmetic Slices](src/ArithmeticSlices.java)             |   Medium   |    100%     |       DP       |
 | 542  |                  [01 Matrix](src/ZeroOneMatrix.java)                  |   Medium   |   98.95%    |    DP, BFS     |
 | 583  |    [Delete Operation for Two Strings](src/DeleteOpForTwoStrs.java)    |   Medium   |   93.79%    |       DP       |
