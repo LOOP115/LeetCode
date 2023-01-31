@@ -54,6 +54,7 @@
 |  62  |                          [Unique Paths](src/UniquePaths.java)                           |   Medium   |    100%     |      DP, Math       |
 |  69  |                                [Sqrt(x)](src/Sqrt.java)                                 |    Easy    |    100%     |   Math, 牛顿迭代, BS    |
 |  70  |                       [Climbing Stairs](src/ClimbingStairs.java)                        |    Easy    |    100%     |   DP, Math, Memo    |
+|  72  |                         [Edit Distance](src/EditDistance.java)                          |    Hard    |   87.84%    |         DP          |
 |  73  |                      [Set Matrix Zeroes](src/SetMatrixZeroes.java)                      |   Medium   |    100%     |        Array        |
 |  74  |                      [Search a 2D Matrix](src/Search2DMatrix.java)                      |   Medium   |    100%     |         BS          |
 |  77  |                          [Combinations](src/Combinations.java)                          |   Medium   |   99.99%    |       回溯, 字典序       |
@@ -147,7 +148,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 117
+##### Total: 118
 
 
 ## Arrays
@@ -289,6 +290,7 @@
 |  55  |                    [Jump Game](src/JumpGame.java)                     |   Medium   |   94.10%    |       DP       |
 |  62  |                 [Unique Paths](src/UniquePaths.java)                  |   Medium   |    100%     |    DP, Math    |
 |  70  |              [Climbing Stairs](src/ClimbingStairs.java)               |    Easy    |    100%     | DP, Math, Memo |
+|  72  |                [Edit Distance](src/EditDistance.java)                 |    Hard    |   87.84%    |       DP       |
 |  91  |                  [Decode Ways](src/DecodeWays.java)                   |   Medium   |    100%     |       DP       |
 | 118  |             [Pascal's Triangle](src/PascalTriangle.java)              |    Easy    |    100%     |       DP       |
 | 120  |                     [Triangle](src/Triangle.java)                     |   Medium   |   96.09%    |       DP       |
