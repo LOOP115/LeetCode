@@ -91,6 +91,7 @@
 | 198  |                          [House Robber](src/HouseRobber.java)                           |   Medium   |    100%     |         DP          |
 | 200  |                      [Number of Islands](src/NumberOfIslands.java)                      |   Medium   |    100%     |     DFS, Union      |
 | 201  |                [Bitwise AND of Numbers Range](src/RangeBitwiseAnd.java)                 |   Medium   |    100%     |         Bit         |
+| 202  |                          [Happy Number](src/HappyNumber.java)                           |    Easy    |    100%     |      Set, 双指针       |
 | 203  |              [Remove Linked List Elements](src/RemoveLinkedListNodes.java)              |    Easy    |    100%     |         递归          |
 | 206  |                    [Reverse Linked List](src/ReverseLinkedList.java)                    |    Easy    |    100%     |         递归          |
 | 209  |                [Minimum Size Subarray Sum](src/MinSizeSubarraySum.java)                 |   Medium   |    100%     |        滑动窗口         |
@@ -152,7 +153,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 122
+##### Total: 123
 
 
 ## Arrays
@@ -372,6 +373,7 @@
 ## Set
 |  ID  |                           Problem                           | Difficulty | Beat (Time) |      Note       |
 |:----:|:-----------------------------------------------------------:|:----------:|:-----------:|:---------------:|
+| 202  |            [Happy Number](src/HappyNumber.java)             |    Easy    |    100%     |    Set, 双指针     |
 | 217  |      [Contains Duplicate](src/ContainsDuplicate.java)       |    Easy    |   99.08%    |       Set       |
 | 349  |  [Intersection of Two Arrays](src/IntersectTwoArrays.java)  |    Easy    |   93.84%    | Set, Sort + 双指针 |
 | 1346 | [Check If N and Its Double Exist](src/CheckNandDouble.java) |    Easy    |   99.07%    |     BS, Set     |
@@ -414,6 +416,7 @@
 |  88  |                [Merge Sorted Array](src/MergeSortedArray.java)                |    Easy    |    100%     |         双指针         |
 | 141  |                 [Linked List Cycle](src/LinkedListCycle.java)                 |    Easy    |    100%     |         双指针         |
 | 167  |            [Two Sum II - Input Array is Sorted](src/TwoSumII.java)            |   Medium   |    100%     |       BS, 双指针       |
+| 202  |                     [Happy Number](src/HappyNumber.java)                      |    Easy    |    100%     |      Set, 双指针       |
 | 283  |                       [Move Zeros](src/MoveZeros.java)                        |    Easy    |    100%     |        双指针?         |
 | 344  |                   [Reverse String](src/ReverseString.java)                    |    Easy    |    100%     |         双指针         |
 | 349  |           [Intersection of Two Arrays](src/IntersectTwoArrays.java)           |    Easy    |   93.84%    |   Set, Sort + 双指针   |
