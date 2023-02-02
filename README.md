@@ -112,6 +112,7 @@
 | 367  |                   [Valid Perfect Square](src/ValidPerfectSquare.java)                   |    Easy    |    100%     |   Math, 牛顿迭代, BS    |
 | 374  |                    [Guess Number Higher or Lower](src/GuessNum.java)                    |    Easy    |    100%     |         BS          |
 | 383  |                           [Ransom Note](src/RansomNote.java)                            |    Easy    |   99.95%    |       HashMap       |
+| 384  |                        [Shuffle an Array](src/ShuffleArray.java)                        |   Medium   |   86.94%    |        Array        |
 | 387  |             [First Unique Character in a String](src/FirstUniqueChar.java)              |    Easy    |   91.77%    |       HashMap       |
 | 413  |                     [Arithmetic Slices](src/ArithmeticSlices.java)                      |   Medium   |    100%     |         DP          |
 | 438  |               [Find All Anagrams in a String](src/AnagramsInString.java)                |   Medium   |   88.19%    |   HashTable, 滑动窗口   |
@@ -151,7 +152,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 121
+##### Total: 122
 
 
 ## Arrays
@@ -172,6 +173,7 @@
 | 344  |                [Reverse String](src/ReverseString.java)                 |    Easy    |    100%     |         双指针         |
 | 349  |        [Intersection of Two Arrays](src/IntersectTwoArrays.java)        |    Easy    |   93.84%    |   Set, Sort + 双指针   |
 | 350  |     [Intersection of Two Arrays II](src/IntersectTwoArraysII.java)      |    Easy    |   89.79%    | HashMap, Sort + 双指针 |
+| 384  |                [Shuffle an Array](src/ShuffleArray.java)                |   Medium   |   86.94%    |        Array        |
 | 557  |    [Reverse Words in a String III](src/ReverseWordsInStringIII.java)    |    Easy    |    100%     |         双指针         |
 | 566  |              [Reshape the Matrix](src/ReshapeMatrix.java)               |    Easy    |    100%     |  Flatten 2D Array   |
 | 852  |   [Peak Index in a Mountain Array](src/PeakIndexInMountainArray.java)   |    Easy    |    100%     |         BS          |
