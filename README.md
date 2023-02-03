@@ -82,6 +82,7 @@
 | 141  |                      [Linked List Cycle](src/LinkedListCycle.java)                      |    Easy    |    100%     |         双指针         |
 | 144  |              [Binary Tree Preorder Traversal](src/BinaryTreePreorder.java)              |    Easy    |    100%     |        前序遍历         |
 | 145  |             [Binary Tree Postorder Traversal](src/BinaryTreePostorder.java)             |    Easy    |    100%     |        后序遍历         |
+| 149  |                    [Max Points on a Line](src/MaxPointsOnLine.java)                     |    Hard    |   61.16%    |    HashMap, Math    |
 | 153  |         [Find Minimum in Rotated Sorted Array](src/FindMinInRotatedArray.java)          |   Medium   |    100%     |         BS          |
 | 162  |                      [Find Peak Element](src/FindPeakElement.java)                      |   Medium   |    100%     |         BS          |
 | 167  |                 [Two Sum II - Input Array is Sorted](src/TwoSumII.java)                 |   Medium   |    100%     |       BS, 双指针       |
@@ -153,7 +154,7 @@
 | 1539 |               [Kth Missing Positive Number](src/KthMissingPositive.java)                |    Easy    |    100%     |         BS          |
 | 1608 |     [Special Array With X Elements Greater Than or Equal X](src/SpecialArray.java)      |    Easy    |   79.46%    |         BS          |
 | 1855 |      [Maximum Distance Between a Pair of Values](src/MaxDistanceBetweenPairs.java)      |   Medium   |   95.10%    |       双指针, BS       |
-##### Total: 123
+##### Total: 124
 
 
 ## Arrays
@@ -320,6 +321,7 @@
 |:---:|:------------------------------------------------------------------------:|:----------:|:-----------:|:-------------------:|
 |  1  |                        [Two Sum](src/TwoSum.java)                        |    Easy    |   99.38%    |       HashMap       |
 | 17  | [Letter Combinations of a Phone Number](src/LetterCombinationPhone.java) |   Medium   |    100%     |     回溯, HashMap     |
+| 149 |             [Max Points on a Line](src/MaxPointsOnLine.java)             |    Hard    |   61.16%    |    HashMap, Math    |
 | 242 |                  [Valid Anagram](src/ValidAnagram.java)                  |    Easy    |    100%     |       HaspMap       |
 | 350 |      [Intersection of Two Arrays II](src/IntersectTwoArraysII.java)      |    Easy    |   89.79%    | HashMap, Sort + 双指针 |
 | 383 |                    [Ransom Note](src/RansomNote.java)                    |    Easy    |   99.95%    |       HashMap       |
@@ -351,6 +353,7 @@
 | 62  |         [Unique Paths](src/UniquePaths.java)         |   Medium   |    100%     |    DP, Math    |
 | 69  |               [Sqrt(x)](src/Sqrt.java)               |    Easy    |    100%     | Math, 牛顿迭代, BS |
 | 70  |      [Climbing Stairs](src/ClimbingStairs.java)      |    Easy    |    100%     | DP, Math, Memo |
+| 149 |   [Max Points on a Line](src/MaxPointsOnLine.java)   |    Hard    |   61.16%    | HashMap, Math  |
 | 189 |         [Rotate Array](src/RotateArray.java)         |   Medium   |    100%     | Math, Reverse  |
 | 343 |        [IntegerBreak](src/IntegerBreak.java)         |   Medium   |    100%     |    DP, Math    |
 | 367 | [Valid Perfect Square](src/ValidPerfectSquare.java)  |    Easy    |    100%     | Math, 牛顿迭代, BS |
